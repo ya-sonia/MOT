@@ -1,0 +1,936 @@
+Running DanceTrack val...
+
+
+
+Tracking dancetrack0004...
+Initiating Track ID 1 at frame 1 with box [ 630.45    377.6625  853.2    1008.45  ] and score 0.9488034248352051
+Initiating Track ID 2 at frame 1 with box [ 795.825   306.7875 1036.125  1078.65  ] and score 0.9261198043823242
+Initiating Track ID 3 at frame 1 with box [ 967.95     413.77502 1273.05     991.575  ] and score 0.8878576755523682
+Initiating Track ID 4 at frame 14 with box [825.525   595.35004 964.575   837.     ] and score 0.8141145706176758
+Initiating Track ID 5 at frame 133 with box [ 695.25    635.5125 1143.4501  796.5   ] and score 0.8238444328308105
+Initiating Track ID 6 at frame 136 with box [ 816.075    712.80005 1275.0751   854.55005] and score 0.6475210189819336
+Initiating Track ID 7 at frame 225 with box [ 915.97504  567.      1417.5     1057.05   ] and score 0.9611577987670898
+Initiating Track ID 8 at frame 326 with box [ 882.22504  512.66254 1252.125    947.7    ] and score 0.8594436645507812
+Initiating Track ID 9 at frame 617 with box [ 876.15     466.7625  1023.30005  911.25   ] and score 0.829681396484375
+Initiating Track ID 10 at frame 751 with box [ 834.97504  488.02502 1014.525    805.275  ] and score 0.707036018371582
+Initiating Track ID 11 at frame 772 with box [ 761.4      490.725   1127.25     932.17505] and score 0.8114547729492188
+Initiating Track ID 12 at frame 821 with box [ 882.22504  339.52502 1056.375    841.72504] and score 0.7430706024169922
+
+
+
+Tracking dancetrack0005...
+Initiating Track ID 1 at frame 1 with box [ 900.45    367.2    1075.9501  681.075 ] and score 0.9654250144958496
+Initiating Track ID 2 at frame 1 with box [860.625   379.35    992.92505 662.17505] and score 0.9130020141601562
+Initiating Track ID 3 at frame 2 with box [817.42505 396.225   948.37506 652.05005] and score 0.8111257553100586
+Initiating Track ID 4 at frame 8 with box [839.7     375.30002 961.2     657.45   ] and score 0.8376710414886475
+Initiating Track ID 5 at frame 391 with box [ 951.75006  360.11252 1177.2001   866.7    ] and score 0.9395949840545654
+Initiating Track ID 6 at frame 431 with box [595.35004 432.67502 850.5     933.525  ] and score 0.7908935546875
+Initiating Track ID 7 at frame 777 with box [338.5125  393.52502 537.6375  897.075  ] and score 0.797271728515625
+Initiating Track ID 8 at frame 1028 with box [ 753.30005  359.4375  1240.65     916.65   ] and score 0.8909683227539062
+Initiating Track ID 9 at frame 1051 with box [ 994.275  363.825 1338.525  937.575] and score 0.915952205657959
+Initiating Track ID 10 at frame 1186 with box [ 997.65     233.21251 1293.3      909.9    ] and score 0.9619846343994141
+
+
+
+Tracking dancetrack0007...
+Initiating Track ID 1 at frame 1 with box [1168.425  404.325 1283.175  741.825] and score 0.9668433666229248
+Initiating Track ID 2 at frame 1 with box [ 987.525    469.12503 1130.625    756.67505] and score 0.9648771286010742
+Initiating Track ID 3 at frame 1 with box [719.55005 405.      949.05005 753.97504] and score 0.9580478668212891
+Initiating Track ID 4 at frame 1 with box [608.85004 404.325   765.45    743.17505] and score 0.9414899349212646
+Initiating Track ID 5 at frame 1 with box [689.85004 409.3875  843.75    729.67505] and score 0.9308586120605469
+Initiating Track ID 6 at frame 1 with box [492.75003 406.0125  692.55005 739.125  ] and score 0.9302430152893066
+Initiating Track ID 7 at frame 1 with box [1024.65    408.0375 1111.05    729.    ] and score 0.8429365158081055
+Initiating Track ID 8 at frame 9 with box [596.025   407.36252 718.2     726.30005] and score 0.7766580581665039
+Initiating Track ID 9 at frame 426 with box [ 939.60004  415.80002 1055.7001   731.025  ] and score 0.9396743774414062
+Initiating Track ID 10 at frame 730 with box [ 905.17505  430.98752 1009.12506  733.05005] and score 0.8266997337341309
+Initiating Track ID 11 at frame 898 with box [1116.4501   364.83752 1237.9501   789.75   ] and score 0.9245967864990234
+Initiating Track ID 12 at frame 1007 with box [ 915.30005  392.5125  1016.55005  724.275  ] and score 0.8368873596191406
+
+
+
+Tracking dancetrack0010...
+Initiating Track ID 1 at frame 1 with box [706.72504 377.325   840.375   632.47504] and score 0.9634466171264648
+Initiating Track ID 2 at frame 1 with box [1015.2     375.6375 1200.15    665.8875] and score 0.9385929107666016
+Initiating Track ID 3 at frame 1 with box [841.72504 363.825   988.87506 648.67505] and score 0.9271223545074463
+Initiating Track ID 4 at frame 1 with box [1081.35     373.61252 1235.25     641.5875 ] and score 0.9076557159423828
+Initiating Track ID 5 at frame 1 with box [ 980.775    272.19376 1114.425    625.05005] and score 0.8898711204528809
+Initiating Track ID 6 at frame 3 with box [864.      279.95627 967.95    616.95   ] and score 0.7556304931640625
+Initiating Track ID 7 at frame 559 with box [1166.4      256.33127 1408.05     695.92505] and score 0.7992355823516846
+Initiating Track ID 8 at frame 802 with box [ 764.10004  282.65625 1007.10004  740.47504] and score 0.9377553462982178
+Initiating Track ID 9 at frame 1122 with box [1701.       398.92502 1917.0001   756.     ] and score 0.6210565567016602
+Initiating Track ID 10 at frame 1149 with box [1483.65     305.60626 1740.15     848.47504] and score 0.7103433609008789
+
+
+
+Tracking dancetrack0014...
+Initiating Track ID 1 at frame 1 with box [659.8125  557.2125  788.4     776.92505] and score 0.9610593318939209
+Initiating Track ID 2 at frame 1 with box [1210.9501   561.60004 1350.       770.17505] and score 0.9513063430786133
+Initiating Track ID 3 at frame 1 with box [1036.8     622.6875 1198.8     795.15  ] and score 0.9464378356933594
+Initiating Track ID 4 at frame 1 with box [1159.65     564.97504 1294.65     776.25   ] and score 0.9430789947509766
+Initiating Track ID 5 at frame 1 with box [747.9     611.55005 903.15    796.5    ] and score 0.9378068447113037
+Initiating Track ID 6 at frame 1 with box [593.325 547.425 729.    771.525] and score 0.9351816177368164
+Initiating Track ID 7 at frame 1 with box [1069.2001   593.325   1254.15     783.67505] and score 0.9317531585693359
+Initiating Track ID 8 at frame 1 with box [710.775   537.97504 844.42505 790.42505] and score 0.9303717613220215
+Initiating Track ID 9 at frame 1 with box [ 977.4      637.53754 1109.7001   811.35004] and score 0.9111337661743164
+Initiating Track ID 10 at frame 1 with box [ 918.67505  662.17505 1001.025    826.875  ] and score 0.9090738296508789
+Initiating Track ID 11 at frame 1 with box [853.2     625.72504 972.00006 807.97504] and score 0.9019107818603516
+Initiating Track ID 12 at frame 1 with box [ 922.05005  560.25    1015.2      793.80005] and score 0.8370494842529297
+Initiating Track ID 13 at frame 92 with box [1130.625    587.92505 1219.7251   760.72504] and score 0.8912444114685059
+Initiating Track ID 14 at frame 175 with box [ 921.375    526.16254 1011.825    783.     ] and score 0.7116072177886963
+Initiating Track ID 15 at frame 219 with box [ 973.35004  556.875   1086.75     759.375  ] and score 0.9065587520599365
+Initiating Track ID 16 at frame 237 with box [ 928.80005  544.05    1023.30005  762.75   ] and score 0.620765209197998
+Initiating Track ID 17 at frame 289 with box [1192.7251   534.60004 1272.375    786.375  ] and score 0.6926321983337402
+Initiating Track ID 18 at frame 345 with box [1212.9751   606.15    1296.675    787.05005] and score 0.7227487564086914
+Initiating Track ID 19 at frame 487 with box [611.8875 537.6375 810.     843.75  ] and score 0.9702563285827637
+Initiating Track ID 20 at frame 600 with box [833.625   543.7125  941.62506 772.875  ] and score 0.7138710021972656
+Initiating Track ID 21 at frame 624 with box [780.30005 468.45    916.65    823.5    ] and score 0.9357833862304688
+Initiating Track ID 22 at frame 649 with box [790.42505 540.3375  922.72504 772.875  ] and score 0.7766783237457275
+Initiating Track ID 23 at frame 731 with box [ 938.25006  549.45    1032.75     766.80005] and score 0.6808421611785889
+Initiating Track ID 24 at frame 816 with box [868.05005 536.625   946.35004 813.375  ] and score 0.8020415306091309
+Initiating Track ID 25 at frame 888 with box [ 916.65     534.60004 1004.4      777.60004] and score 0.8119864463806152
+Initiating Track ID 26 at frame 898 with box [866.7     547.425   942.30005 763.42505] and score 0.7981030941009521
+Initiating Track ID 27 at frame 966 with box [1115.1      576.78754 1231.2001   772.2    ] and score 0.6267223358154297
+Initiating Track ID 28 at frame 974 with box [1146.15     560.5875  1221.75     774.22504] and score 0.7124161720275879
+Initiating Track ID 29 at frame 977 with box [825.525   562.95    911.92505 770.85004] and score 0.9092307090759277
+Initiating Track ID 30 at frame 993 with box [598.72504 546.075   719.55005 783.67505] and score 0.9071698188781738
+Initiating Track ID 31 at frame 1001 with box [ 911.25     632.1375  1003.05005  792.45   ] and score 0.6469495296478271
+Initiating Track ID 32 at frame 1097 with box [566.66254 550.4625  649.0125  819.45   ] and score 0.9286379814147949
+Initiating Track ID 33 at frame 1155 with box [ 915.97504  548.10004 1050.975    785.025  ] and score 0.7316656112670898
+
+
+
+Tracking dancetrack0018...
+Initiating Track ID 1 at frame 1 with box [131.54063 435.375   474.52502 938.25006] and score 0.9683198928833008
+Initiating Track ID 2 at frame 1 with box [ 679.72504  222.07501 1212.9751   990.9    ] and score 0.9615139961242676
+Initiating Track ID 3 at frame 1 with box [1163.025    411.75    1468.8      936.22504] and score 0.9590234756469727
+Initiating Track ID 4 at frame 4 with box [662.85004 415.80002 913.95    901.80005] and score 0.6475210189819336
+Initiating Track ID 5 at frame 5 with box [ 905.85004  390.15002 1163.7001   921.375  ] and score 0.7786593437194824
+Initiating Track ID 6 at frame 378 with box [ 773.55005  179.21251 1155.6001  1016.55005] and score 0.9407901763916016
+
+
+
+Tracking dancetrack0019...
+Initiating Track ID 1 at frame 1 with box [1068.2999   278.09998 1187.1      528.75   ] and score 0.9814624786376953
+Initiating Track ID 2 at frame 1 with box [718.19995 256.05    856.8     553.05   ] and score 0.9799990653991699
+Initiating Track ID 3 at frame 1 with box [319.275   298.8     453.37497 531.89996] and score 0.9775600433349609
+Initiating Track ID 4 at frame 1 with box [505.34998 290.69998 756.44995 553.94995] and score 0.9746332168579102
+Initiating Track ID 5 at frame 1 with box [115.087494 281.25     229.16249  562.5     ] and score 0.9721941947937012
+Initiating Track ID 6 at frame 1 with box [913.49994 288.675   987.2999  530.1    ] and score 0.9658527374267578
+Initiating Track ID 7 at frame 1 with box [608.85    292.05    706.94995 532.35   ] and score 0.7515010833740234
+Initiating Track ID 8 at frame 148 with box [ 83.868744 375.3      288.675    576.89996 ] and score 0.9112973213195801
+Initiating Track ID 9 at frame 162 with box [143.54999 348.525   263.025   556.19995] and score 0.9644055366516113
+Initiating Track ID 10 at frame 359 with box [792.44995 384.97498 931.49994 517.05   ] and score 0.9541666507720947
+Initiating Track ID 11 at frame 393 with box [ 949.49994  428.4     1163.7      540.     ] and score 0.9726941585540771
+Initiating Track ID 12 at frame 399 with box [684.89996 258.07498 862.19995 447.97498] and score 0.6982326507568359
+Initiating Track ID 13 at frame 409 with box [ 840.14996  380.24997 1092.6      516.14996] and score 0.9138250350952148
+Initiating Track ID 14 at frame 412 with box [677.69995 269.775   828.89996 404.775  ] and score 0.6930017471313477
+Initiating Track ID 15 at frame 475 with box [855.89996 382.94998 947.69995 518.39996] and score 0.8698146343231201
+Initiating Track ID 16 at frame 479 with box [ 831.6      399.59998 1013.39996  528.3    ] and score 0.8849868774414062
+Initiating Track ID 17 at frame 481 with box [733.94995 370.12497 847.35    533.69995] and score 0.6713905334472656
+Initiating Track ID 18 at frame 505 with box [718.19995 350.775   831.6     487.8    ] and score 0.6781554222106934
+Initiating Track ID 19 at frame 515 with box [1058.3999   337.49997 1240.2      474.3    ] and score 0.9463655948638916
+Initiating Track ID 20 at frame 519 with box [ 895.49994  319.05    1021.49994  458.09998] and score 0.6103627681732178
+Initiating Track ID 21 at frame 563 with box [831.6    356.4    964.7999 589.5   ] and score 0.8146281242370605
+Initiating Track ID 22 at frame 633 with box [849.6     351.44998 952.19995 471.59998] and score 0.8930511474609375
+Initiating Track ID 23 at frame 739 with box [292.94998 494.09998 393.74997 541.8    ] and score 0.9405691623687744
+Initiating Track ID 24 at frame 741 with box [293.625   494.09998 393.97498 541.8    ] and score 0.9007449150085449
+Initiating Track ID 25 at frame 754 with box [323.99997 464.39996 460.8     518.39996] and score 0.8207845687866211
+Initiating Track ID 26 at frame 797 with box [423.22498 155.8125  557.1     567.     ] and score 0.7342872619628906
+Initiating Track ID 27 at frame 799 with box [400.05    152.09999 543.14996 564.75   ] and score 0.6670761108398438
+Initiating Track ID 28 at frame 805 with box [384.07498 140.9625  518.39996 571.05   ] and score 0.602783203125
+Initiating Track ID 29 at frame 834 with box [436.05    223.53749 559.35    564.75   ] and score 0.8200254440307617
+Initiating Track ID 30 at frame 894 with box [ 62.887497 225.78749  298.34998  544.5     ] and score 0.7651662826538086
+Initiating Track ID 31 at frame 1239 with box [370.34998 457.87497 561.14996 565.64996] and score 0.8979828357696533
+Initiating Track ID 32 at frame 1365 with box [795.6     342.44998 936.89996 558.     ] and score 0.7851018905639648
+Initiating Track ID 33 at frame 1548 with box [1004.39996  355.49997 1110.6      581.39996] and score 0.8900570869445801
+Initiating Track ID 34 at frame 1566 with box [1035.       413.55    1137.6      579.14996] and score 0.8117876052856445
+Initiating Track ID 35 at frame 1655 with box [555.3     415.8     655.19995 573.3    ] and score 0.92978835105896
+Initiating Track ID 36 at frame 1657 with box [467.99997 399.15    542.69995 568.35   ] and score 0.9169588088989258
+Initiating Track ID 37 at frame 1660 with box [497.69998 416.925   619.19995 543.14996] and score 0.6896381378173828
+Initiating Track ID 38 at frame 1676 with box [371.69998 315.44998 468.89996 510.3    ] and score 0.794013500213623
+Initiating Track ID 39 at frame 1719 with box [547.19995 447.97498 650.69995 548.55   ] and score 0.9144952297210693
+Initiating Track ID 40 at frame 1759 with box [616.05    351.9     711.44995 541.35   ] and score 0.6467838287353516
+Initiating Track ID 41 at frame 1830 with box [401.4     316.34998 512.1     649.35   ] and score 0.8151230812072754
+Initiating Track ID 42 at frame 1852 with box [494.99997 369.22498 612.89996 647.1    ] and score 0.7195930480957031
+Initiating Track ID 43 at frame 1890 with box [369.9     473.39996 472.05    671.39996] and score 0.6840372085571289
+Initiating Track ID 44 at frame 2259 with box [458.99997 391.275   665.99994 559.35   ] and score 0.9664492607116699
+Initiating Track ID 45 at frame 2271 with box [ 863.55     461.69998 1023.2999   581.39996] and score 0.6354081630706787
+Initiating Track ID 46 at frame 2309 with box [205.98749 456.74997 436.49997 546.75   ] and score 0.9590234756469727
+Initiating Track ID 47 at frame 2337 with box [519.3     339.74997 654.3     472.94998] and score 0.794374942779541
+Initiating Track ID 48 at frame 2339 with box [528.75  425.025 652.05  503.55 ] and score 0.8603830337524414
+Initiating Track ID 49 at frame 2361 with box [ 934.19995  448.64996 1083.6      538.64996] and score 0.7549805641174316
+Initiating Track ID 50 at frame 2388 with box [ 935.99994  449.09998 1119.6      534.6    ] and score 0.616973876953125
+
+
+
+Tracking dancetrack0025...
+Initiating Track ID 1 at frame 1 with box [152.66249 422.09998 286.19998 615.6    ] and score 0.9760856628417969
+Initiating Track ID 2 at frame 1 with box [246.15    467.55    320.4     594.44995] and score 0.9556088447570801
+Initiating Track ID 3 at frame 1 with box [843.3     454.05    922.49994 616.94995] and score 0.9541666507720947
+Initiating Track ID 4 at frame 1 with box [399.37497 440.09998 535.05    612.     ] and score 0.9362421035766602
+Initiating Track ID 5 at frame 1 with box [614.69995 509.39996 730.8     629.1    ] and score 0.934237003326416
+Initiating Track ID 6 at frame 1 with box [915.74994 460.34998 969.2999  589.94995] and score 0.8940975666046143
+Initiating Track ID 7 at frame 1 with box [683.1     515.69995 795.6     607.5    ] and score 0.8665938377380371
+Initiating Track ID 8 at frame 1 with box [698.85    455.175   758.24994 600.75   ] and score 0.8282661437988281
+Initiating Track ID 9 at frame 1 with box [460.8     444.37497 540.89996 587.69995] and score 0.6404151916503906
+Initiating Track ID 10 at frame 4 with box [476.09998 401.4     576.89996 587.69995] and score 0.7407879829406738
+Initiating Track ID 11 at frame 58 with box [638.55  409.275 725.85  588.6  ] and score 0.8147048950195312
+Initiating Track ID 12 at frame 63 with box [587.25    382.72498 717.74994 567.     ] and score 0.7059202194213867
+Initiating Track ID 13 at frame 170 with box [859.49994 395.775   920.69995 586.8    ] and score 0.6428565979003906
+Initiating Track ID 14 at frame 173 with box [854.1     391.275   913.49994 586.35   ] and score 0.9070336818695068
+Initiating Track ID 15 at frame 216 with box [610.19995 385.65    748.8     551.25   ] and score 0.7716073989868164
+Initiating Track ID 16 at frame 261 with box [580.05    454.49997 718.64996 578.69995] and score 0.8271722793579102
+Initiating Track ID 17 at frame 309 with box [ 944.99994  383.84998 1045.7999   561.14996] and score 0.6424148082733154
+Initiating Track ID 18 at frame 348 with box [359.775   337.94998 554.39996 472.49997] and score 0.7700445652008057
+Initiating Track ID 19 at frame 393 with box [330.3     368.55    468.89996 603.44995] and score 0.7158117294311523
+Initiating Track ID 20 at frame 394 with box [ 967.49994  389.925   1044.8999   571.5    ] and score 0.8866596221923828
+Initiating Track ID 21 at frame 407 with box [438.3     415.12497 493.19998 605.69995] and score 0.831732988357544
+Initiating Track ID 22 at frame 418 with box [375.07498 412.65    425.47498 584.55   ] and score 0.6324348449707031
+Initiating Track ID 23 at frame 445 with box [193.8375  362.025   462.14996 555.75   ] and score 0.720667839050293
+Initiating Track ID 24 at frame 451 with box [321.3     352.34998 480.14996 559.35   ] and score 0.842308759689331
+Initiating Track ID 25 at frame 463 with box [392.62497 473.84998 526.5     603.44995] and score 0.8438043594360352
+Initiating Track ID 26 at frame 475 with box [776.69995 487.8     899.99994 567.     ] and score 0.6730456352233887
+Initiating Track ID 27 at frame 490 with box [337.49997 427.94998 478.34998 553.94995] and score 0.6253714561462402
+Initiating Track ID 28 at frame 508 with box [435.59998 462.59998 563.39996 568.8    ] and score 0.668243408203125
+Initiating Track ID 29 at frame 515 with box [395.775   479.69998 517.5     573.3    ] and score 0.8004555702209473
+Initiating Track ID 30 at frame 525 with box [348.97498 499.94998 494.09998 572.85   ] and score 0.6068229675292969
+Initiating Track ID 31 at frame 540 with box [1078.2      506.24997 1175.3999   612.44995] and score 0.9300069808959961
+Initiating Track ID 32 at frame 596 with box [753.3     397.8     877.49994 577.8    ] and score 0.7941074371337891
+Initiating Track ID 33 at frame 598 with box [429.74997 370.34998 571.05    589.94995] and score 0.7807226181030273
+Initiating Track ID 34 at frame 606 with box [402.74997 447.3     492.74997 585.     ] and score 0.9028816223144531
+Initiating Track ID 35 at frame 610 with box [245.69998 427.49997 445.05    595.8    ] and score 0.8921675682067871
+Initiating Track ID 36 at frame 613 with box [ 899.99994  415.57498 1029.6      562.5    ] and score 0.7744874954223633
+Initiating Track ID 37 at frame 616 with box [240.29999 424.8     442.8     594.     ] and score 0.8362159729003906
+Initiating Track ID 38 at frame 628 with box [827.99994 451.34998 977.39996 613.35   ] and score 0.9393806457519531
+Initiating Track ID 39 at frame 677 with box [ 982.7999   397.12497 1074.6      590.39996] and score 0.7761497497558594
+Initiating Track ID 40 at frame 720 with box [524.25    376.87497 638.55    583.19995] and score 0.7639131546020508
+Initiating Track ID 41 at frame 748 with box [706.94995 522.      821.24994 575.1    ] and score 0.8380308151245117
+Initiating Track ID 42 at frame 766 with box [685.8     419.84998 730.8     577.35   ] and score 0.6594419479370117
+Initiating Track ID 43 at frame 777 with box [694.8     455.84998 820.8     587.25   ] and score 0.7904672622680664
+Initiating Track ID 44 at frame 795 with box [886.49994 282.15    985.49994 393.74997] and score 0.6130943298339844
+
+
+
+Tracking dancetrack0026...
+Initiating Track ID 1 at frame 1 with box [1131.2999  295.875  1278.8999  597.6   ] and score 0.9780664443969727
+Initiating Track ID 2 at frame 1 with box [ 894.6      249.29999 1148.3999   596.69995] and score 0.9570519924163818
+Initiating Track ID 3 at frame 1 with box [242.09999 189.78749 494.99997 585.     ] and score 0.9566240310668945
+Initiating Track ID 4 at frame 1 with box [112.49999 305.32498 285.525   577.8    ] and score 0.9346942901611328
+Initiating Track ID 5 at frame 1 with box [584.1     193.16249 825.3     593.1    ] and score 0.9047403335571289
+Initiating Track ID 6 at frame 1 with box [191.92499 355.72498 364.275   584.1    ] and score 0.9042119979858398
+Initiating Track ID 7 at frame 1 with box [449.99997 296.09998 608.39996 588.14996] and score 0.9016327857971191
+Initiating Track ID 8 at frame 1 with box [644.85    308.69998 877.94995 595.35   ] and score 0.8960318565368652
+Initiating Track ID 9 at frame 1 with box [1120.5      391.49997 1223.1      596.69995] and score 0.8935744762420654
+Initiating Track ID 10 at frame 1 with box [775.8     362.24997 941.39996 596.25   ] and score 0.8734691143035889
+Initiating Track ID 11 at frame 1 with box [379.8     336.82498 570.6     586.8    ] and score 0.8655574321746826
+Initiating Track ID 12 at frame 1 with box [531.44995 373.275   686.24994 592.19995] and score 0.848233699798584
+Initiating Track ID 13 at frame 2 with box [ 899.99994  367.19998 1045.7999   594.89996] and score 0.6726529598236084
+Initiating Track ID 14 at frame 9 with box [688.05    355.275   848.24994 596.69995] and score 0.8121969699859619
+Initiating Track ID 15 at frame 16 with box [1128.6      291.59998 1278.       596.69995] and score 0.9162249565124512
+Initiating Track ID 16 at frame 18 with box [830.69995 411.74997 954.89996 595.35   ] and score 0.935211181640625
+Initiating Track ID 17 at frame 20 with box [408.59998 339.74997 533.69995 592.64996] and score 0.8969199657440186
+Initiating Track ID 18 at frame 77 with box [539.1     401.4     632.69995 600.3    ] and score 0.6607093811035156
+Initiating Track ID 19 at frame 88 with box [685.35    435.82498 788.85    601.19995] and score 0.629948616027832
+Initiating Track ID 20 at frame 135 with box [589.05    413.99997 677.24994 595.8    ] and score 0.6095352172851562
+Initiating Track ID 21 at frame 160 with box [1038.6      296.55    1249.2      592.19995] and score 0.9361562728881836
+Initiating Track ID 22 at frame 169 with box [118.34999 388.8     244.57498 592.19995] and score 0.6763279438018799
+Initiating Track ID 23 at frame 169 with box [805.49994 396.22498 916.19995 596.69995] and score 0.6579742431640625
+Initiating Track ID 24 at frame 202 with box [2.9531249e-01 4.0589999e+02 4.9499996e+01 5.8859998e+02] and score 0.8784480094909668
+Initiating Track ID 25 at frame 202 with box [769.49994 411.74997 906.2999  596.25   ] and score 0.639286994934082
+Initiating Track ID 26 at frame 204 with box [782.99994 395.55    918.89996 599.85   ] and score 0.668881893157959
+Initiating Track ID 27 at frame 208 with box [789.3     391.49997 908.99994 597.6    ] and score 0.7063608169555664
+Initiating Track ID 28 at frame 215 with box [737.99994 382.49997 856.8     600.3    ] and score 0.7020318508148193
+Initiating Track ID 29 at frame 218 with box [157.3875  401.4     295.19998 599.39996] and score 0.6504559516906738
+Initiating Track ID 30 at frame 220 with box [166.04999 418.275   300.15    597.6    ] and score 0.9362969398498535
+Initiating Track ID 31 at frame 224 with box [737.1     405.9     856.8     603.89996] and score 0.8770995140075684
+Initiating Track ID 32 at frame 230 with box [830.24994 464.84998 913.94995 608.85   ] and score 0.9227838516235352
+Initiating Track ID 33 at frame 235 with box [675.44995 447.525   785.24994 611.55   ] and score 0.7209434509277344
+Initiating Track ID 34 at frame 243 with box [782.55    471.14996 890.55    612.44995] and score 0.7949638366699219
+Initiating Track ID 35 at frame 244 with box [755.1     453.37497 852.3     613.8    ] and score 0.7776756286621094
+
+
+
+Tracking dancetrack0030...
+Initiating Track ID 1 at frame 1 with box [850.5    602.4375 909.9    813.375 ] and score 0.965364933013916
+Initiating Track ID 2 at frame 1 with box [1053.675    614.25    1110.375    818.10004] and score 0.9643893241882324
+Initiating Track ID 3 at frame 1 with box [793.125  651.7125 863.325  877.5   ] and score 0.9639339447021484
+Initiating Track ID 4 at frame 1 with box [ 972.67505  654.075   1034.775    874.125  ] and score 0.9619846343994141
+Initiating Track ID 5 at frame 1 with box [ 883.575  579.15  1030.725  766.125] and score 0.9527668952941895
+Initiating Track ID 6 at frame 1 with box [1174.5      537.3     1259.55     764.10004] and score 0.937159538269043
+Initiating Track ID 7 at frame 585 with box [ 857.92505  623.7     1009.12506  857.25   ] and score 0.9300069808959961
+Initiating Track ID 8 at frame 1144 with box [792.45    618.97504 869.4     826.875  ] and score 0.7927732467651367
+Initiating Track ID 9 at frame 1179 with box [844.42505 655.42505 963.22504 866.025  ] and score 0.7351603507995605
+Initiating Track ID 10 at frame 1189 with box [897.075   602.10004 994.275   807.30005] and score 0.796778678894043
+
+
+
+Tracking dancetrack0034...
+Initiating Track ID 1 at frame 1 with box [8.4375000e-01 5.7071252e+02 1.9186876e+02 8.8425000e+02] and score 0.9770822525024414
+Initiating Track ID 2 at frame 1 with box [ 730.35004  249.07501 1116.4501   961.2    ] and score 0.9731574058532715
+Initiating Track ID 3 at frame 1 with box [1424.25     534.60004 1597.05     899.10004] and score 0.969768762588501
+Initiating Track ID 4 at frame 1 with box [1664.55    569.025  1837.3501  899.775 ] and score 0.9673452377319336
+Initiating Track ID 5 at frame 1 with box [254.81252 603.11255 399.2625  888.97504] and score 0.9668283462524414
+Initiating Track ID 6 at frame 1 with box [569.7     336.31876 855.9     936.22504] and score 0.9664821624755859
+Initiating Track ID 7 at frame 1 with box [ 981.45     353.7     1306.8      928.80005] and score 0.9542274475097656
+Initiating Track ID 8 at frame 1 with box [1070.55   490.725 1293.3    894.375] and score 0.7858872413635254
+Initiating Track ID 9 at frame 1 with box [690.86255 498.48752 859.275   872.10004] and score 0.7608532905578613
+Initiating Track ID 10 at frame 13 with box [1275.0751  526.8375 1428.3     903.15  ] and score 0.6231269836425781
+Initiating Track ID 11 at frame 16 with box [1853.55     551.47504 1918.3501   880.875  ] and score 0.9328293800354004
+Initiating Track ID 12 at frame 19 with box [368.8875 569.7    538.9875 907.2   ] and score 0.8349142074584961
+Initiating Track ID 13 at frame 19 with box [2.6367188e-01 5.7071252e+02 3.5817188e+01 8.8087500e+02] and score 0.7056851387023926
+Initiating Track ID 14 at frame 21 with box [369.5625 558.9    557.2125 907.2   ] and score 0.7355270385742188
+Initiating Track ID 15 at frame 49 with box [846.45    597.03754 997.65    889.65   ] and score 0.8690452575683594
+Initiating Track ID 16 at frame 73 with box [1471.5     588.2625 1660.5     918.    ] and score 0.9113025665283203
+Initiating Track ID 17 at frame 73 with box [ 896.4      559.91254 1024.65     880.2    ] and score 0.8723349571228027
+Initiating Track ID 18 at frame 75 with box [ 880.875    560.92505 1010.47504  882.22504] and score 0.8927757740020752
+Initiating Track ID 19 at frame 80 with box [155.84064 637.875   299.36252 897.075  ] and score 0.9195585250854492
+Initiating Track ID 20 at frame 82 with box [ 62.057816 711.45     204.52501  886.95    ] and score 0.689666748046875
+Initiating Track ID 21 at frame 84 with box [1571.4      706.05005 1803.6001   893.7    ] and score 0.8495965003967285
+Initiating Track ID 22 at frame 84 with box [1827.9     697.95   1919.7001  884.25  ] and score 0.7764780521392822
+Initiating Track ID 23 at frame 85 with box [112.97813 724.275   311.5125  898.42505] and score 0.905308723449707
+Initiating Track ID 24 at frame 140 with box [ 830.25     406.35    1007.10004  898.42505] and score 0.6218149662017822
+Initiating Track ID 25 at frame 143 with box [798.525 502.2   984.825 880.2  ] and score 0.6193687915802002
+Initiating Track ID 26 at frame 163 with box [1783.3501  574.0875 1918.3501  884.25  ] and score 0.8663806915283203
+Initiating Track ID 27 at frame 199 with box [1799.55     561.9375  1918.3501   888.30005] and score 0.7284517288208008
+Initiating Track ID 28 at frame 252 with box [149.85    613.575   277.42502 901.125  ] and score 0.7313776016235352
+Initiating Track ID 29 at frame 336 with box [109.350006 594.3375   256.8375   884.25    ] and score 0.7593631744384766
+Initiating Track ID 30 at frame 355 with box [1817.1001   485.325   1917.0001   945.67505] and score 0.8511872291564941
+Initiating Track ID 31 at frame 360 with box [1590.3      355.05002 1919.7001   964.575  ] and score 0.74149489402771
+Initiating Track ID 32 at frame 377 with box [1713.15     390.48752 1926.4501   927.45   ] and score 0.7595603466033936
+Initiating Track ID 33 at frame 378 with box [393.52502 542.025   593.325   924.075  ] and score 0.8199920654296875
+Initiating Track ID 34 at frame 434 with box [3.7968752e-01 6.0243750e+02 5.7121876e+01 8.8155005e+02] and score 0.6945319175720215
+Initiating Track ID 35 at frame 444 with box [  6.7921877 635.17505   133.65001   884.92505  ] and score 0.7884299755096436
+Initiating Track ID 36 at frame 528 with box [1815.75     543.7125  1918.3501   919.35004] and score 0.7194685935974121
+Initiating Track ID 37 at frame 633 with box [1830.6001   668.92505 1919.7001   917.325  ] and score 0.7849159240722656
+Initiating Track ID 38 at frame 642 with box [332.60626 675.3375  426.2625  901.125  ] and score 0.659945011138916
+Initiating Track ID 39 at frame 654 with box [1759.05    568.0125 1918.3501  910.575 ] and score 0.8036434650421143
+Initiating Track ID 40 at frame 739 with box [ 884.92505  745.2     1138.7251   935.55005] and score 0.9009003639221191
+Initiating Track ID 41 at frame 743 with box [ 881.55005  747.9     1030.05     924.75   ] and score 0.8596372604370117
+Initiating Track ID 42 at frame 764 with box [6.7500001e-01 5.9872504e+02 9.4837502e+01 1.0145250e+03] and score 0.8274955749511719
+Initiating Track ID 43 at frame 767 with box [8.8593751e-01 6.1357501e+02 1.0951875e+02 1.0212750e+03] and score 0.8477449417114258
+Initiating Track ID 44 at frame 876 with box [1517.4      525.15    1809.       926.10004] and score 0.6544613838195801
+Initiating Track ID 45 at frame 881 with box [1132.65     591.30005 1367.55     912.60004] and score 0.8705997467041016
+Initiating Track ID 46 at frame 883 with box [ 905.85004  420.52502 1263.6001   903.825  ] and score 0.8259522914886475
+Initiating Track ID 47 at frame 896 with box [444.15002 583.2     591.97504 934.2    ] and score 0.6700983047485352
+Initiating Track ID 48 at frame 899 with box [445.83752 559.575   624.7125  890.325  ] and score 0.8782088756561279
+Initiating Track ID 49 at frame 921 with box [783.     642.9375 981.45   933.525 ] and score 0.6171703338623047
+
+
+
+Tracking dancetrack0035...
+Initiating Track ID 1 at frame 1 with box [1183.275  720.9   1338.525  974.7  ] and score 0.9635205268859863
+Initiating Track ID 2 at frame 1 with box [651.375   714.825   845.775   992.92505] and score 0.9580671787261963
+Initiating Track ID 3 at frame 1 with box [ 845.775  681.075 1102.275 1005.075] and score 0.9556879997253418
+Initiating Track ID 4 at frame 1 with box [491.73752 691.2     651.7125  984.15   ] and score 0.9552199840545654
+Initiating Track ID 5 at frame 1 with box [ 338.85     685.80005  474.52502 1008.45   ] and score 0.94940185546875
+Initiating Track ID 6 at frame 1 with box [1385.1001   662.85004 1536.3     1005.75006] and score 0.9439277648925781
+Initiating Track ID 7 at frame 1 with box [ 843.075    710.775    992.92505 1022.62506] and score 0.8783340454101562
+Initiating Track ID 8 at frame 51 with box [ 377.325    645.97504  600.075   1033.425  ] and score 0.9047820568084717
+Initiating Track ID 9 at frame 60 with box [ 820.125    712.80005 1001.025    978.75006] and score 0.8414783477783203
+Initiating Track ID 10 at frame 218 with box [1007.775  629.775 1127.925  998.325] and score 0.7719697952270508
+Initiating Track ID 11 at frame 347 with box [ 820.80005  635.5125  1031.4      980.775  ] and score 0.7322430610656738
+Initiating Track ID 12 at frame 370 with box [1431.      660.825  1722.6001  910.575 ] and score 0.6132066249847412
+Initiating Track ID 13 at frame 379 with box [1686.15   1001.025  1912.9501 1283.175 ] and score 0.6169767379760742
+Initiating Track ID 14 at frame 393 with box [1657.8    1032.0751 1919.7001 1163.025 ] and score 0.6246321201324463
+Initiating Track ID 15 at frame 443 with box [ 794.47504  551.47504 1059.0751   820.125  ] and score 0.8180994987487793
+Initiating Track ID 16 at frame 480 with box [ 84.33282 624.375   200.13751 979.42505] and score 0.8229160308837891
+Initiating Track ID 17 at frame 539 with box [ 949.05005  656.4375  1108.35     985.50006] and score 0.6556806564331055
+Initiating Track ID 18 at frame 585 with box [ 990.22504  676.6875  1153.5751  1007.10004] and score 0.7680416107177734
+Initiating Track ID 19 at frame 640 with box [1029.375   634.8375 1227.8251  997.65  ] and score 0.9575600624084473
+
+
+
+Tracking dancetrack0041...
+Initiating Track ID 1 at frame 1 with box [731.7     558.22504 850.5     774.22504] and score 0.9391617774963379
+Initiating Track ID 2 at frame 1 with box [876.15    551.1375  972.00006 768.15   ] and score 0.9044990539550781
+Initiating Track ID 3 at frame 1 with box [1132.65    545.0625 1239.3     766.125 ] and score 0.8631281852722168
+Initiating Track ID 4 at frame 1 with box [632.47504 586.575   722.92505 794.47504] and score 0.8573148250579834
+Initiating Track ID 5 at frame 1 with box [ 965.92505  546.41254 1077.975    768.15   ] and score 0.8243865966796875
+Initiating Track ID 6 at frame 1 with box [500.17502 573.41254 588.60004 790.42505] and score 0.6117172241210938
+Initiating Track ID 7 at frame 2 with box [481.27502 571.72504 555.525   776.25   ] and score 0.8118875026702881
+Initiating Track ID 8 at frame 4 with box [575.4375  566.66254 680.0625  767.47504] and score 0.7354388236999512
+Initiating Track ID 9 at frame 8 with box [1271.025   528.8625 1369.5751  758.7   ] and score 0.624589204788208
+Initiating Track ID 10 at frame 12 with box [1238.625    526.16254 1334.4751   756.     ] and score 0.7016286849975586
+Initiating Track ID 11 at frame 14 with box [1207.5751   519.075   1320.9751   753.97504] and score 0.7847499847412109
+Initiating Track ID 12 at frame 30 with box [1300.05     503.55002 1385.1001   745.2    ] and score 0.6442670822143555
+Initiating Track ID 13 at frame 32 with box [1279.125    498.15002 1370.925    745.2    ] and score 0.8292083740234375
+Initiating Track ID 14 at frame 53 with box [1346.625    513.      1426.9501   777.60004] and score 0.6532659530639648
+Initiating Track ID 15 at frame 72 with box [1004.4      486.67502 1142.1001   778.275  ] and score 0.7653827667236328
+Initiating Track ID 16 at frame 80 with box [1341.2251  505.575  1432.3501  771.525 ] and score 0.8105349540710449
+Initiating Track ID 17 at frame 118 with box [1109.025    552.15    1212.9751   838.35004] and score 0.8340024948120117
+Initiating Track ID 18 at frame 120 with box [357.75    500.17502 474.52502 782.325  ] and score 0.7400064468383789
+Initiating Track ID 19 at frame 132 with box [462.375   505.23752 568.35004 754.65   ] and score 0.7389626502990723
+Initiating Track ID 20 at frame 150 with box [853.2     459.67502 945.00006 762.75   ] and score 0.7337751388549805
+Initiating Track ID 21 at frame 163 with box [ 996.97504  478.23752 1110.375    764.10004] and score 0.7284407615661621
+Initiating Track ID 22 at frame 196 with box [1104.975    484.31253 1246.7251   770.17505] and score 0.8098526000976562
+Initiating Track ID 23 at frame 219 with box [8.4375001e-02 5.3122504e+02 6.7120316e+01 8.1067505e+02] and score 0.763399600982666
+Initiating Track ID 24 at frame 229 with box [846.45    494.43753 967.95    768.15   ] and score 0.6572504043579102
+Initiating Track ID 25 at frame 233 with box [2.531250e-01 5.190750e+02 4.881094e+01 7.924500e+02] and score 0.7234847545623779
+Initiating Track ID 26 at frame 242 with box [1214.3251   494.43753 1308.8251   743.17505] and score 0.6534423828125
+Initiating Track ID 27 at frame 244 with box [1.4765626e-01 5.4877502e+02 5.3746876e+01 7.8030005e+02] and score 0.7904319763183594
+Initiating Track ID 28 at frame 248 with box [1086.75     496.80002 1183.9501   739.80005] and score 0.6627087593078613
+Initiating Track ID 29 at frame 263 with box [-8.4375001e-02  5.0490002e+02  4.5056252e+01  7.5330005e+02] and score 0.8213963508605957
+Initiating Track ID 30 at frame 267 with box [ 991.575  500.85  1071.225  727.65 ] and score 0.7287082672119141
+Initiating Track ID 31 at frame 300 with box [1057.725    504.56253 1138.7251   695.25   ] and score 0.6360642910003662
+Initiating Track ID 32 at frame 312 with box [549.45    477.225   602.775   689.85004] and score 0.7897207736968994
+Initiating Track ID 33 at frame 316 with box [1037.475    480.93753 1118.4751   708.075  ] and score 0.7408347129821777
+Initiating Track ID 34 at frame 327 with box [683.775   544.72504 758.025   722.92505] and score 0.640453577041626
+Initiating Track ID 35 at frame 341 with box [1005.75006  535.95    1086.75     750.60004] and score 0.8677935600280762
+Initiating Track ID 36 at frame 349 with box [1366.875    608.17505 1439.1001   849.825  ] and score 0.738262414932251
+Initiating Track ID 37 at frame 360 with box [1401.3      570.7125  1439.1001   838.35004] and score 0.6643624305725098
+Initiating Track ID 38 at frame 365 with box [1358.775    626.73755 1437.75     843.075  ] and score 0.8093833923339844
+Initiating Track ID 39 at frame 385 with box [1275.75     586.23755 1439.1001   827.55005] and score 0.9068048000335693
+Initiating Track ID 40 at frame 400 with box [1220.4      568.0125  1316.25     804.60004] and score 0.8568310737609863
+Initiating Track ID 41 at frame 406 with box [1379.7001   564.30005 1439.1001   801.22504] and score 0.7077376842498779
+Initiating Track ID 42 at frame 423 with box [1009.80005  518.7375  1084.05     703.35004] and score 0.755767822265625
+Initiating Track ID 43 at frame 426 with box [1094.85     508.61252 1178.55     716.17505] and score 0.7123410701751709
+Initiating Track ID 44 at frame 511 with box [1107.      520.7625 1190.7001  747.9   ] and score 0.7436800003051758
+Initiating Track ID 45 at frame 572 with box [764.10004 564.6375  842.4     768.15   ] and score 0.8486943244934082
+Initiating Track ID 46 at frame 623 with box [1314.2251   552.15    1381.7251   726.30005] and score 0.6751918792724609
+Initiating Track ID 47 at frame 627 with box [115.762505 579.48755  204.35626  808.65    ] and score 0.752983570098877
+Initiating Track ID 48 at frame 651 with box [295.81876 581.85004 379.35    783.67505] and score 0.7485253810882568
+Initiating Track ID 49 at frame 652 with box [1331.1001  545.7375 1394.55    715.5   ] and score 0.7245063781738281
+Initiating Track ID 50 at frame 681 with box [1293.3      536.28754 1363.5      720.22504] and score 0.6765151023864746
+Initiating Track ID 51 at frame 683 with box [367.5375  713.47504 462.0375  856.575  ] and score 0.6351296901702881
+Initiating Track ID 52 at frame 694 with box [1314.9     542.3625 1379.7001  720.9   ] and score 0.783740758895874
+Initiating Track ID 53 at frame 710 with box [667.91254 675.67505 764.775   856.575  ] and score 0.681926965713501
+Initiating Track ID 54 at frame 752 with box [746.55005 560.5875  822.15    746.55005] and score 0.714202880859375
+Initiating Track ID 55 at frame 758 with box [650.36255 545.4     722.25    721.575  ] and score 0.7252311706542969
+Initiating Track ID 56 at frame 870 with box [669.9375 550.8    731.7    720.9   ] and score 0.708153247833252
+Initiating Track ID 57 at frame 871 with box [ 987.525  539.325 1053.675  712.125] and score 0.7852005958557129
+Initiating Track ID 58 at frame 888 with box [587.5875 540.675  656.4375 745.2   ] and score 0.7523918151855469
+Initiating Track ID 59 at frame 891 with box [532.575 562.95  610.2   762.75 ] and score 0.6631135940551758
+
+
+
+Tracking dancetrack0043...
+Initiating Track ID 1 at frame 1 with box [ 778.95    391.1625 1074.6     930.15  ] and score 0.9343242645263672
+Initiating Track ID 2 at frame 1 with box [587.92505 416.475   922.72504 898.42505] and score 0.9138188362121582
+Initiating Track ID 3 at frame 1 with box [1273.05     405.33752 1476.9      855.9    ] and score 0.8794736862182617
+Initiating Track ID 4 at frame 1 with box [1149.525   350.6625 1320.9751  907.2   ] and score 0.8424148559570312
+Initiating Track ID 5 at frame 1 with box [1009.12506  486.00003 1156.275    832.275  ] and score 0.8127045631408691
+Initiating Track ID 6 at frame 1 with box [1055.025    497.1375  1212.9751   830.92505] and score 0.8075742721557617
+Initiating Track ID 7 at frame 1 with box [584.55005 383.40002 756.67505 841.05005] and score 0.8038129806518555
+Initiating Track ID 8 at frame 2 with box [1191.375    495.11252 1370.925    866.7    ] and score 0.6126081943511963
+Initiating Track ID 9 at frame 3 with box [ 876.15     439.7625  1086.75     865.35004] and score 0.6695747375488281
+Initiating Track ID 10 at frame 3 with box [756.      444.825   938.25006 884.92505] and score 0.6168537139892578
+Initiating Track ID 11 at frame 18 with box [600.41254 499.50003 728.325   848.47504] and score 0.68524169921875
+Initiating Track ID 12 at frame 87 with box [ 911.25  480.6  1080.    850.5 ] and score 0.7477240562438965
+Initiating Track ID 13 at frame 114 with box [773.55005 497.475   911.25    845.10004] and score 0.6455068588256836
+Initiating Track ID 14 at frame 125 with box [ 920.7      439.08752 1086.75     859.95   ] and score 0.8084549903869629
+Initiating Track ID 15 at frame 129 with box [1027.35   558.9   1113.75   799.875] and score 0.6255290508270264
+Initiating Track ID 16 at frame 134 with box [ 927.45    542.7    1048.9501  842.4   ] and score 0.6586933135986328
+Initiating Track ID 17 at frame 138 with box [1068.525  537.3   1183.275  812.7  ] and score 0.6976318359375
+Initiating Track ID 18 at frame 140 with box [1140.0751  513.675  1345.275   840.375 ] and score 0.7843890190124512
+Initiating Track ID 19 at frame 149 with box [ 953.10004  554.85004 1054.35     826.875  ] and score 0.6194949150085449
+Initiating Track ID 20 at frame 174 with box [1073.925    526.5     1265.625    814.05005] and score 0.7721443176269531
+
+
+
+Tracking dancetrack0047...
+Initiating Track ID 1 at frame 1 with box [737.1     247.94998 857.69995 567.     ] and score 0.9731698036193848
+Initiating Track ID 2 at frame 1 with box [494.09998 253.12498 591.3     577.8    ] and score 0.9707307815551758
+Initiating Track ID 3 at frame 1 with box [623.69995 254.24998 738.89996 573.75   ] and score 0.9439277648925781
+Initiating Track ID 4 at frame 1 with box [569.25    168.86249 709.64996 517.05   ] and score 0.9234857559204102
+Initiating Track ID 5 at frame 1 with box [780.74994 187.98749 868.94995 519.3    ] and score 0.9172239303588867
+Initiating Track ID 6 at frame 1 with box [552.14996 221.5125  656.55    548.1    ] and score 0.9161758422851562
+Initiating Track ID 7 at frame 1 with box [437.4     190.23749 513.89996 532.8    ] and score 0.9114646911621094
+Initiating Track ID 8 at frame 9 with box [709.19995 218.24998 808.19995 548.55   ] and score 0.8746147155761719
+Initiating Track ID 9 at frame 21 with box [726.3     264.82498 830.69995 565.19995] and score 0.7699031829833984
+Initiating Track ID 10 at frame 27 with box [715.49994 212.9625  796.49994 504.44998] and score 0.6509494781494141
+Initiating Track ID 11 at frame 88 with box [438.97498 267.3     655.64996 559.35   ] and score 0.8448672294616699
+Initiating Track ID 12 at frame 122 with box [684.89996 243.9     879.3     550.8    ] and score 0.7630796432495117
+Initiating Track ID 13 at frame 203 with box [487.34998 380.925   697.94995 473.39996] and score 0.737682580947876
+Initiating Track ID 14 at frame 229 with box [622.35    412.425   895.94995 549.     ] and score 0.7220582962036133
+Initiating Track ID 15 at frame 287 with box [255.15    401.84998 471.59998 551.25   ] and score 0.6065025329589844
+Initiating Track ID 16 at frame 311 with box [281.47498 417.37497 398.925   585.44995] and score 0.6082921028137207
+Initiating Track ID 17 at frame 353 with box [ 998.99994  209.81248 1153.7999   404.09998] and score 0.7250432968139648
+Initiating Track ID 18 at frame 359 with box [204.075   246.82498 335.925   443.025  ] and score 0.6396722793579102
+Initiating Track ID 19 at frame 393 with box [ 866.24994  323.09998 1014.2999   522.     ] and score 0.6998848915100098
+Initiating Track ID 20 at frame 440 with box [715.49994 420.3     875.69995 500.39996] and score 0.6068627834320068
+Initiating Track ID 21 at frame 540 with box [ 935.1      348.525   1041.2999   493.19998] and score 0.7754287719726562
+Initiating Track ID 22 at frame 548 with box [421.425   460.34998 588.6     554.85   ] and score 0.9395949840545654
+Initiating Track ID 23 at frame 564 with box [ 921.6      370.8     1085.3999   490.94998] and score 0.8241913318634033
+Initiating Track ID 24 at frame 567 with box [ 864.44995  339.3     1075.5      451.8    ] and score 0.7274031639099121
+Initiating Track ID 25 at frame 742 with box [587.69995 143.325   691.19995 514.8    ] and score 0.8034896850585938
+Initiating Track ID 26 at frame 765 with box [480.14996 445.94998 639.44995 560.25   ] and score 0.7144508361816406
+Initiating Track ID 27 at frame 934 with box [571.5     257.175   700.19995 434.47498] and score 0.759594202041626
+Initiating Track ID 28 at frame 998 with box [764.99994 223.98749 836.1     454.49997] and score 0.7147359848022461
+Initiating Track ID 29 at frame 1037 with box [412.87497 225.3375  510.74997 520.19995] and score 0.7620563507080078
+Initiating Track ID 30 at frame 1108 with box [453.59998 335.24997 614.69995 574.64996] and score 0.6866955757141113
+Initiating Track ID 31 at frame 1150 with box [579.6     526.5     856.8     628.19995] and score 0.6360054016113281
+
+
+
+Tracking dancetrack0058...
+Initiating Track ID 1 at frame 1 with box [1162.3501   487.0125  1412.1001   851.85004] and score 0.9756088256835938
+Initiating Track ID 2 at frame 1 with box [726.97504 395.55002 875.47504 789.075  ] and score 0.9721941947937012
+Initiating Track ID 3 at frame 1 with box [491.40002 428.2875  710.775   841.05005] and score 0.9590234756469727
+Initiating Track ID 4 at frame 1 with box [ 822.15     480.6     1069.2001   848.47504] and score 0.9556293487548828
+Initiating Track ID 5 at frame 1 with box [563.625   401.625   743.17505 787.72504] and score 0.9484913349151611
+Initiating Track ID 6 at frame 1 with box [ 980.10004  395.8875  1113.75     800.55005] and score 0.8740854263305664
+Initiating Track ID 7 at frame 1 with box [ 947.025  347.625 1071.225  805.275] and score 0.8557305335998535
+Initiating Track ID 8 at frame 13 with box [ 930.825    417.15002 1127.925    780.30005] and score 0.7561614513397217
+Initiating Track ID 9 at frame 33 with box [ 901.125    417.15002 1088.775    774.22504] and score 0.8008308410644531
+Initiating Track ID 10 at frame 235 with box [ 883.575    366.52502 1041.525    734.4    ] and score 0.7987265586853027
+Initiating Track ID 11 at frame 595 with box [ 972.00006  396.225   1210.9501   766.125  ] and score 0.9566617012023926
+Initiating Track ID 12 at frame 619 with box [1078.65    397.9125 1290.6001  538.9875] and score 0.7096326351165771
+Initiating Track ID 13 at frame 694 with box [1198.125    388.80002 1406.7001   746.55005] and score 0.7330780029296875
+Initiating Track ID 14 at frame 1248 with box [ 917.325    363.15002 1111.725    741.15   ] and score 0.6197426319122314
+Initiating Track ID 15 at frame 1600 with box [ 876.15     346.95    1003.05005  801.9    ] and score 0.9639179706573486
+
+
+
+Tracking dancetrack0063...
+Initiating Track ID 1 at frame 1 with box [737.10004 492.075   923.4     913.275  ] and score 0.8262472152709961
+Initiating Track ID 2 at frame 1 with box [633.48755 437.40002 805.275   877.5    ] and score 0.8248887062072754
+Initiating Track ID 3 at frame 1 with box [ 982.12506  489.37503 1148.175    918.67505] and score 0.7809486389160156
+Initiating Track ID 4 at frame 1 with box [1066.5   488.7  1232.55  900.45] and score 0.7799649238586426
+Initiating Track ID 5 at frame 1 with box [ 917.325  377.325 1049.625  795.825] and score 0.6350326538085938
+Initiating Track ID 6 at frame 6 with box [815.4   384.075 936.9   812.025] and score 0.6484646797180176
+Initiating Track ID 7 at frame 11 with box [1084.05    375.975  1258.2001  853.875 ] and score 0.6384022235870361
+Initiating Track ID 8 at frame 16 with box [1088.1      459.33752 1264.9501   859.95   ] and score 0.7731647491455078
+Initiating Track ID 9 at frame 20 with box [1075.9501   417.15002 1278.4501   874.80005] and score 0.6308555603027344
+Initiating Track ID 10 at frame 25 with box [726.97504 428.2875  863.325   828.9    ] and score 0.6442451477050781
+Initiating Track ID 11 at frame 31 with box [1067.85     471.48752 1232.55     865.35004] and score 0.6906509399414062
+Initiating Track ID 12 at frame 43 with box [468.45    491.40002 809.325   858.60004] and score 0.7807536125183105
+Initiating Track ID 13 at frame 46 with box [1064.475   288.225  1376.3251  705.375 ] and score 0.6784186363220215
+Initiating Track ID 14 at frame 51 with box [1051.65     283.66876 1368.9      706.05005] and score 0.7662715911865234
+Initiating Track ID 15 at frame 51 with box [490.725   241.81876 893.025   707.4    ] and score 0.666020393371582
+Initiating Track ID 16 at frame 56 with box [ 855.9      344.92502 1008.45     798.525  ] and score 0.7389936447143555
+Initiating Track ID 17 at frame 72 with box [ 934.87506  367.2     1056.375    812.7    ] and score 0.8008346557617188
+Initiating Track ID 18 at frame 91 with box [446.5125 529.875  715.5    880.875 ] and score 0.6038818359375
+Initiating Track ID 19 at frame 101 with box [680.73755 384.075   800.55005 883.575  ] and score 0.9039044380187988
+Initiating Track ID 20 at frame 122 with box [1037.475    201.15001 1513.3501   463.725  ] and score 0.9000492095947266
+Initiating Track ID 21 at frame 124 with box [ 835.65    232.5375 1332.4501  513.3375] and score 0.8970015048980713
+Initiating Track ID 22 at frame 128 with box [307.96875 239.45625 714.15    533.925  ] and score 0.6975502967834473
+Initiating Track ID 23 at frame 134 with box [ 850.5      449.55002 1204.2001   675.67505] and score 0.7680816650390625
+Initiating Track ID 24 at frame 165 with box [ 783.67505  698.625   1045.5751   903.825  ] and score 0.8321285247802734
+Initiating Track ID 25 at frame 169 with box [1075.9501   762.075   1331.1001   934.87506] and score 0.8309359550476074
+Initiating Track ID 26 at frame 169 with box [1642.9501   793.80005 1861.65     965.25006] and score 0.7141439914703369
+Initiating Track ID 27 at frame 171 with box [ 669.60004  679.3875  1038.15     940.95   ] and score 0.8434860706329346
+Initiating Track ID 28 at frame 172 with box [ 888.30005  618.97504 1231.2001   917.325  ] and score 0.6694793701171875
+Initiating Track ID 29 at frame 175 with box [ 915.97504  584.55005 1072.5751   876.15   ] and score 0.6741142272949219
+Initiating Track ID 30 at frame 177 with box [1067.85     625.3875  1312.2001   857.92505] and score 0.796051025390625
+Initiating Track ID 31 at frame 187 with box [632.1375  627.41254 867.375   872.10004] and score 0.7920436859130859
+Initiating Track ID 32 at frame 188 with box [-13.120313 634.16254  168.4125   853.2     ] and score 0.6531457901000977
+Initiating Track ID 33 at frame 192 with box [ 944.325    588.60004 1145.4751   857.25   ] and score 0.8505616188049316
+Initiating Track ID 34 at frame 194 with box [ -2.025   578.47504 402.975   830.92505] and score 0.7360658645629883
+Initiating Track ID 35 at frame 195 with box [1490.4     630.45   1730.7001  873.45  ] and score 0.7678127288818359
+Initiating Track ID 36 at frame 196 with box [ 952.42505  573.75    1160.3251   853.2    ] and score 0.6116428375244141
+Initiating Track ID 37 at frame 206 with box [ 28.35    472.83752 184.10626 753.30005] and score 0.7086026668548584
+Initiating Track ID 38 at frame 207 with box [1040.175    444.15002 1229.175    785.7    ] and score 0.7681319713592529
+Initiating Track ID 39 at frame 220 with box [ -1.0125 335.1375 364.1625 645.6375] and score 0.7022333145141602
+Initiating Track ID 40 at frame 223 with box [1506.6001   324.67502 1649.7001   806.625  ] and score 0.8181443214416504
+Initiating Track ID 41 at frame 232 with box [427.27502 175.5     779.625   427.27502] and score 0.7994892597198486
+Initiating Track ID 42 at frame 232 with box [ 752.625   149.85   1036.125   394.5375] and score 0.7616143226623535
+Initiating Track ID 43 at frame 255 with box [1168.425    236.25002 1460.7001   616.95   ] and score 0.637643575668335
+Initiating Track ID 44 at frame 259 with box [121.33125 406.0125  528.525   780.30005] and score 0.6950080394744873
+Initiating Track ID 45 at frame 268 with box [1217.7001   585.5625  1436.4      807.30005] and score 0.7882475852966309
+Initiating Track ID 46 at frame 268 with box [164.3625  506.25003 538.9875  786.375  ] and score 0.6644725799560547
+Initiating Track ID 47 at frame 270 with box [164.86876 482.2875  543.375   791.775  ] and score 0.8660657405853271
+Initiating Track ID 48 at frame 272 with box [1313.55     391.5     1502.55     712.80005] and score 0.6517219543457031
+Initiating Track ID 49 at frame 281 with box [1028.025    273.88126 1319.625    627.075  ] and score 0.6109180450439453
+Initiating Track ID 50 at frame 284 with box [488.02502 151.62189 830.92505 438.4125 ] and score 0.8816261291503906
+Initiating Track ID 51 at frame 284 with box [1510.65     222.07501 1813.05     481.27502] and score 0.7037789821624756
+Initiating Track ID 52 at frame 290 with box [1194.0751  436.725  1387.8     799.2   ] and score 0.7520265579223633
+Initiating Track ID 53 at frame 294 with box [1468.8      709.42505 1854.9      956.47504] and score 0.8926811218261719
+Initiating Track ID 54 at frame 296 with box [ 998.325  599.4   1653.75   954.45 ] and score 0.8597841262817383
+Initiating Track ID 55 at frame 296 with box [ 716.17505  740.47504 1202.175    937.575  ] and score 0.6690759658813477
+Initiating Track ID 56 at frame 297 with box [1104.3      461.02502 1602.4501   956.47504] and score 0.7260875701904297
+Initiating Track ID 57 at frame 298 with box [213.80626 652.72504 741.825   921.375  ] and score 0.6388185024261475
+Initiating Track ID 58 at frame 299 with box [ 793.80005  483.6375  1174.5      936.9    ] and score 0.9063997268676758
+Initiating Track ID 59 at frame 304 with box [  1.5187501 516.03754   508.95      848.47504  ] and score 0.8813016414642334
+Initiating Track ID 60 at frame 304 with box [ 978.75006  556.2     1595.7001   831.60004] and score 0.7856130599975586
+Initiating Track ID 61 at frame 308 with box [1001.025    519.75    1471.5      773.55005] and score 0.7752156257629395
+Initiating Track ID 62 at frame 336 with box [ 965.92505  430.65002 1118.4751   735.075  ] and score 0.8743464946746826
+Initiating Track ID 63 at frame 343 with box [483.30002 432.67502 701.325   749.25   ] and score 0.6773042678833008
+Initiating Track ID 64 at frame 344 with box [1512.       492.75003 1660.5      809.325  ] and score 0.8357706069946289
+Initiating Track ID 65 at frame 344 with box [ 930.15     444.15002 1094.85     689.17505] and score 0.7809057235717773
+Initiating Track ID 66 at frame 352 with box [496.12503 506.25003 897.075   788.4    ] and score 0.8721373081207275
+Initiating Track ID 67 at frame 352 with box [1379.025    504.56253 1648.3501   799.875  ] and score 0.6969351768493652
+Initiating Track ID 68 at frame 362 with box [358.7625  447.1875  647.66254 735.75   ] and score 0.8058738708496094
+Initiating Track ID 69 at frame 375 with box [1534.9501  562.95   1804.9501  803.25  ] and score 0.8278899192810059
+Initiating Track ID 70 at frame 426 with box [470.475   324.67502 840.375   573.075  ] and score 0.6566429138183594
+Initiating Track ID 71 at frame 430 with box [1264.9501   278.1     1459.3501   479.92502] and score 0.7132456302642822
+Initiating Track ID 72 at frame 446 with box [1060.425   224.4375 1295.3251  533.5875] and score 0.8215069770812988
+Initiating Track ID 73 at frame 446 with box [696.60004 113.31563 885.60004 425.92502] and score 0.8151931762695312
+Initiating Track ID 74 at frame 446 with box [1603.8      211.10626 1738.8      567.     ] and score 0.779787540435791
+Initiating Track ID 75 at frame 469 with box [583.875   244.51875 839.025   768.825  ] and score 0.7865085601806641
+Initiating Track ID 76 at frame 480 with box [1124.55   497.475 1436.4    826.2  ] and score 0.7737829685211182
+Initiating Track ID 77 at frame 485 with box [488.02502 476.55002 751.275   893.025  ] and score 0.7205772399902344
+Initiating Track ID 78 at frame 491 with box [1342.5751   468.7875  1624.05     719.55005] and score 0.8143949508666992
+Initiating Track ID 79 at frame 493 with box [683.4375  418.5     901.80005 810.     ] and score 0.8542382717132568
+Initiating Track ID 80 at frame 495 with box [135.50626 449.55002 540.      683.775  ] and score 0.7536849975585938
+Initiating Track ID 81 at frame 513 with box [727.65    458.325   985.50006 758.025  ] and score 0.6332252025604248
+Initiating Track ID 82 at frame 522 with box [139.3875  454.95    454.61252 813.375  ] and score 0.6562347412109375
+Initiating Track ID 83 at frame 525 with box [198.1125 386.1    514.6875 812.025 ] and score 0.7450253963470459
+Initiating Track ID 84 at frame 526 with box [747.9     387.45    943.65    898.42505] and score 0.8350620269775391
+Initiating Track ID 85 at frame 535 with box [1436.4      358.42502 1749.6001   793.125  ] and score 0.9544544219970703
+Initiating Track ID 86 at frame 545 with box [464.73752 409.725   735.75    638.55005] and score 0.8223438262939453
+Initiating Track ID 87 at frame 559 with box [1165.7251   632.47504 1460.7001   959.17505] and score 0.7689528465270996
+Initiating Track ID 88 at frame 587 with box [ 760.72504  584.55005  930.825   1017.9    ] and score 0.7281990051269531
+Initiating Track ID 89 at frame 600 with box [ 901.80005  412.08752 1208.25     737.10004] and score 0.6726827621459961
+Initiating Track ID 90 at frame 709 with box [ 835.65    277.0875 1194.75    587.5875] and score 0.7642662525177002
+Initiating Track ID 91 at frame 717 with box [ 893.7     388.125  1142.1001  766.125 ] and score 0.6431078910827637
+Initiating Track ID 92 at frame 744 with box [ 241.14375  739.125    737.775   1034.775  ] and score 0.686591386795044
+Initiating Track ID 93 at frame 754 with box [ 130.6125  722.25    619.3125 1027.35  ] and score 0.7865777015686035
+Initiating Track ID 94 at frame 754 with box [ 756.      592.3125 1337.8501  889.65  ] and score 0.7114481925964355
+Initiating Track ID 95 at frame 774 with box [ 708.075    744.525   1179.2251   936.22504] and score 0.7710220813751221
+Initiating Track ID 96 at frame 775 with box [1495.8     514.6875 1911.6001  745.2   ] and score 0.618283748626709
+Initiating Track ID 97 at frame 810 with box [1582.2001  335.475  1776.6001  718.875 ] and score 0.7114114761352539
+Initiating Track ID 98 at frame 833 with box [1485.       369.90002 1638.9      535.95   ] and score 0.7612724304199219
+Initiating Track ID 99 at frame 842 with box [1333.125    447.1875  1633.5      757.35004] and score 0.6341056823730469
+Initiating Track ID 100 at frame 844 with box [1358.1001   430.65002 1582.2001   706.05005] and score 0.6145048141479492
+Initiating Track ID 101 at frame 845 with box [ 908.55005  526.5     1193.4      843.075  ] and score 0.903449535369873
+Initiating Track ID 102 at frame 847 with box [159.89062 657.45    361.125   920.7    ] and score 0.8238973617553711
+Initiating Track ID 103 at frame 857 with box [ 987.525    438.75    1451.25     641.92505] and score 0.7024283409118652
+Initiating Track ID 104 at frame 858 with box [259.875   507.93753 513.675   926.10004] and score 0.6369624137878418
+Initiating Track ID 105 at frame 860 with box [1501.2001  411.75   1690.2001  677.025 ] and score 0.7551133632659912
+Initiating Track ID 106 at frame 873 with box [697.95    350.325   903.15    521.10004] and score 0.6757693290710449
+Initiating Track ID 107 at frame 892 with box [1077.975     84.29063 1372.275    293.625  ] and score 0.7822504043579102
+Initiating Track ID 108 at frame 895 with box [1192.7251  388.125  1505.25    647.325 ] and score 0.9335517883300781
+Initiating Track ID 109 at frame 895 with box [410.40002 144.28125 997.65    425.25   ] and score 0.8135132789611816
+Initiating Track ID 110 at frame 896 with box [525.15    185.2875  721.575   696.60004] and score 0.6407239437103271
+Initiating Track ID 111 at frame 907 with box [484.31253 236.58751 811.35004 800.55005] and score 0.7796893119812012
+Initiating Track ID 112 at frame 911 with box [1470.15     139.13438 1680.75     331.7625 ] and score 0.7238616943359375
+Initiating Track ID 113 at frame 918 with box [423.90002 270.84375 866.025   785.025  ] and score 0.8445310592651367
+Initiating Track ID 114 at frame 947 with box [1317.6001   266.45627 1601.1001   658.80005] and score 0.8701093196868896
+Initiating Track ID 115 at frame 951 with box [413.77502 288.39377 766.125   824.17505] and score 0.7382369041442871
+Initiating Track ID 116 at frame 955 with box [1474.2001   154.15314 1609.2001   402.6375 ] and score 0.8788361549377441
+Initiating Track ID 117 at frame 956 with box [678.7125  172.71564 965.25006 451.575  ] and score 0.9470548629760742
+Initiating Track ID 118 at frame 961 with box [723.60004 386.1     850.5     796.5    ] and score 0.7087411880493164
+Initiating Track ID 119 at frame 963 with box [607.5     488.36252 899.10004 803.92505] and score 0.7248663902282715
+Initiating Track ID 120 at frame 979 with box [ 666.9      580.8375  1020.60004  822.15   ] and score 0.7537996768951416
+Initiating Track ID 121 at frame 983 with box [379.35  303.075 725.625 756.   ] and score 0.7347373962402344
+Initiating Track ID 122 at frame 996 with box [135.25313 633.48755 460.0125  889.65   ] and score 0.6618459224700928
+
+
+
+Tracking dancetrack0065...
+Initiating Track ID 1 at frame 1 with box [768.15    433.6875  949.05005 742.5    ] and score 0.9770617485046387
+Initiating Track ID 2 at frame 1 with box [369.90002 472.50003 594.      953.10004] and score 0.9741454124450684
+Initiating Track ID 3 at frame 1 with box [167.48438 479.58752 462.71252 783.     ] and score 0.9731698036193848
+Initiating Track ID 4 at frame 1 with box [1551.15     483.30002 1764.4501   804.60004] and score 0.9663705825805664
+Initiating Track ID 5 at frame 1 with box [1152.2251   524.1375  1334.4751   962.55005] and score 0.944561243057251
+Initiating Track ID 6 at frame 29 with box [524.8125 478.575  617.9625 786.375 ] and score 0.7966103553771973
+Initiating Track ID 7 at frame 219 with box [670.61255 435.0375  803.92505 849.15   ] and score 0.9321391582489014
+Initiating Track ID 8 at frame 327 with box [ 749.25     582.525   1000.35004  780.30005] and score 0.9226851463317871
+Initiating Track ID 9 at frame 337 with box [1067.175   697.275  1307.4751  856.575 ] and score 0.9458527565002441
+Initiating Track ID 10 at frame 424 with box [774.9     487.35    957.15    834.30005] and score 0.9220237731933594
+Initiating Track ID 11 at frame 483 with box [1325.025  467.1   1530.9    755.325] and score 0.7556748390197754
+Initiating Track ID 12 at frame 627 with box [1354.7251   399.9375  1614.6001   699.30005] and score 0.8761014938354492
+Initiating Track ID 13 at frame 687 with box [1187.3251  467.1    1418.8501  836.325 ] and score 0.7466797828674316
+Initiating Track ID 14 at frame 692 with box [1349.3251   346.27502 1451.25     698.625  ] and score 0.7543294429779053
+
+
+
+Tracking dancetrack0073...
+Initiating Track ID 1 at frame 1 with box [ 793.125    340.2     1226.4751   959.17505] and score 0.9688568115234375
+Initiating Track ID 2 at frame 1 with box [1148.175  380.7   1490.4    901.125] and score 0.9513864517211914
+Initiating Track ID 3 at frame 1 with box [566.66254 354.375   876.825   861.30005] and score 0.9483394622802734
+Initiating Track ID 4 at frame 1 with box [439.08752 342.39377 750.60004 757.35004] and score 0.9041256904602051
+Initiating Track ID 5 at frame 1 with box [334.46252 378.67502 628.0875  699.97504] and score 0.8987264633178711
+Initiating Track ID 6 at frame 1 with box [1410.75     423.225   1694.25     760.05005] and score 0.828094482421875
+Initiating Track ID 7 at frame 1 with box [1147.5      526.16254 1383.75     798.525  ] and score 0.7271108627319336
+Initiating Track ID 8 at frame 3 with box [1223.1001   367.2     1579.5      794.47504] and score 0.8596158027648926
+Initiating Track ID 9 at frame 18 with box [585.5625  464.73752 913.95    686.8125 ] and score 0.6672000885009766
+Initiating Track ID 10 at frame 43 with box [741.825   432.67502 945.67505 790.42505] and score 0.6229033470153809
+Initiating Track ID 11 at frame 109 with box [687.48755 305.94376 946.35004 627.75   ] and score 0.7926845550537109
+Initiating Track ID 12 at frame 135 with box [ 994.275    268.81876 1431.       830.25   ] and score 0.963477611541748
+Initiating Track ID 13 at frame 143 with box [1078.65     427.95    1316.25     720.22504] and score 0.7317571640014648
+Initiating Track ID 14 at frame 150 with box [ 821.47504  439.42502 1068.525    679.05005] and score 0.7231507301330566
+Initiating Track ID 15 at frame 165 with box [617.28754 411.075   806.625   666.9    ] and score 0.7608823776245117
+Initiating Track ID 16 at frame 174 with box [1254.15     483.30002 1466.1001   698.625  ] and score 0.7158923149108887
+Initiating Track ID 17 at frame 176 with box [1242.       479.58752 1447.2001   695.92505] and score 0.661468505859375
+Initiating Track ID 18 at frame 178 with box [1243.3501   478.23752 1440.4501   693.22504] and score 0.7098455429077148
+Initiating Track ID 19 at frame 223 with box [1385.1001   353.02502 1593.       656.10004] and score 0.8521175384521484
+Initiating Track ID 20 at frame 235 with box [1129.9501   430.65002 1408.05     696.60004] and score 0.6582903861999512
+Initiating Track ID 21 at frame 252 with box [328.3875  189.33751 482.2875  749.25   ] and score 0.8152556419372559
+Initiating Track ID 22 at frame 253 with box [456.6375  227.98126 659.8125  761.4    ] and score 0.7730178833007812
+Initiating Track ID 23 at frame 259 with box [1090.8        98.887505 1433.7001    868.05005 ] and score 0.9351515769958496
+Initiating Track ID 24 at frame 263 with box [ 290.25    150.8625 1621.3501 1161.    ] and score 0.789649486541748
+Initiating Track ID 25 at frame 264 with box [ 992.92505  150.52501 1436.4      898.42505] and score 0.8897266387939453
+Initiating Track ID 26 at frame 270 with box [140.82188 269.325   450.225   728.325  ] and score 0.6071906089782715
+Initiating Track ID 27 at frame 281 with box [197.77501 302.56876 491.40002 828.9    ] and score 0.8262290954589844
+Initiating Track ID 28 at frame 295 with box [1273.05     386.77502 1524.15     758.7    ] and score 0.726527214050293
+Initiating Track ID 29 at frame 313 with box [1150.875    305.77502 1349.3251   637.875  ] and score 0.6029176712036133
+Initiating Track ID 30 at frame 318 with box [626.4     211.27501 804.60004 643.275  ] and score 0.9084634780883789
+Initiating Track ID 31 at frame 360 with box [484.98752 231.35626 674.66254 691.2    ] and score 0.8491384983062744
+Initiating Track ID 32 at frame 441 with box [225.7875  297.67502 526.16254 639.9    ] and score 0.8149585723876953
+Initiating Track ID 33 at frame 532 with box [1489.05     412.42502 1783.3501   762.075  ] and score 0.6886196136474609
+Initiating Track ID 34 at frame 561 with box [1543.05    287.8875 1767.15    682.0875] and score 0.6591987609863281
+Initiating Track ID 35 at frame 566 with box [1547.1001   288.39377 1773.9      689.85004] and score 0.7469837665557861
+Initiating Track ID 36 at frame 632 with box [814.05005 314.71875 950.4     614.25   ] and score 0.6092445850372314
+Initiating Track ID 37 at frame 693 with box [1200.15     272.53125 1410.75     623.7    ] and score 0.6090967655181885
+Initiating Track ID 38 at frame 696 with box [1201.5      292.61252 1347.3      615.2625 ] and score 0.8022284507751465
+
+
+
+Tracking dancetrack0077...
+Initiating Track ID 1 at frame 1 with box [182.58751 501.18753 367.875   807.30005] and score 0.9760966300964355
+Initiating Track ID 2 at frame 1 with box [ 873.45     437.0625  1085.4      874.80005] and score 0.9746332168579102
+Initiating Track ID 3 at frame 1 with box [1413.4501   456.30002 1618.65     841.05005] and score 0.9746332168579102
+Initiating Track ID 4 at frame 1 with box [414.7875  479.58752 632.8125  854.55005] and score 0.9741454124450684
+Initiating Track ID 5 at frame 1 with box [689.5125  452.92502 901.125   797.85004] and score 0.9736692905426025
+Initiating Track ID 6 at frame 1 with box [1617.3      430.65002 1795.5      784.35004] and score 0.970242977142334
+Initiating Track ID 7 at frame 1 with box [1073.925    455.96252 1245.375    801.22504] and score 0.9531915187835693
+Initiating Track ID 8 at frame 1 with box [1439.1001   366.86252 1601.1001   727.65   ] and score 0.9497785568237305
+Initiating Track ID 9 at frame 1 with box [475.2     373.95    608.85004 728.325  ] and score 0.9220952987670898
+Initiating Track ID 10 at frame 176 with box [1183.275   536.9625 1590.3     825.525 ] and score 0.8012347221374512
+Initiating Track ID 11 at frame 180 with box [651.03754 494.77502 917.325   784.35004] and score 0.8270883560180664
+Initiating Track ID 12 at frame 193 with box [ 919.35004  583.2     1178.55     794.47504] and score 0.8078498840332031
+Initiating Track ID 13 at frame 232 with box [184.44376 631.80005 508.27502 723.60004] and score 0.8443484306335449
+Initiating Track ID 14 at frame 536 with box [ 944.325    599.4     1218.375    834.30005] and score 0.8820455074310303
+
+
+
+Tracking dancetrack0079...
+Initiating Track ID 1 at frame 1 with box [835.65    542.025   990.9     766.80005] and score 0.9717311859130859
+Initiating Track ID 2 at frame 1 with box [329.23126 550.4625  450.90002 739.125  ] and score 0.9712314605712891
+Initiating Track ID 3 at frame 1 with box [ 978.075   505.9125 1100.925   690.1875] and score 0.966871976852417
+Initiating Track ID 4 at frame 1 with box [1242.       532.91254 1354.05     707.4    ] and score 0.9634466171264648
+Initiating Track ID 5 at frame 1 with box [1431.       552.825   1522.8      739.80005] and score 0.9609925746917725
+Initiating Track ID 6 at frame 1 with box [1039.5      434.7     1158.3      618.97504] and score 0.9512851238250732
+Initiating Track ID 7 at frame 1 with box [720.22504 445.1625  807.97504 622.6875 ] and score 0.9464142322540283
+Initiating Track ID 8 at frame 1 with box [555.525   553.16254 644.625   708.75   ] and score 0.9454400539398193
+Initiating Track ID 9 at frame 1 with box [818.10004 503.8875  918.      671.28754] and score 0.9108977317810059
+Initiating Track ID 10 at frame 72 with box [823.5     428.96252 920.7     594.3375 ] and score 0.7768778800964355
+Initiating Track ID 11 at frame 76 with box [844.42505 504.90002 928.125   707.4    ] and score 0.7658243179321289
+Initiating Track ID 12 at frame 190 with box [663.1875  537.97504 737.10004 743.85004] and score 0.7795143127441406
+Initiating Track ID 13 at frame 370 with box [1702.3501   452.92502 1759.05     659.47504] and score 0.6709504127502441
+Initiating Track ID 14 at frame 372 with box [1676.7001   457.98752 1752.3      662.5125 ] and score 0.6105780601501465
+Initiating Track ID 15 at frame 374 with box [114.412506 482.2875   176.51251  637.53754 ] and score 0.7793068885803223
+Initiating Track ID 16 at frame 383 with box [1474.2001   447.1875  1628.1001   627.41254] and score 0.9624719619750977
+Initiating Track ID 17 at frame 386 with box [169.08751 433.6875  232.20001 624.03754] and score 0.7299253940582275
+Initiating Track ID 18 at frame 386 with box [1669.9501  454.95   1759.05    626.4   ] and score 0.7262163162231445
+Initiating Track ID 19 at frame 387 with box [1566.      438.4125 1625.4     592.3125] and score 0.6936159133911133
+Initiating Track ID 20 at frame 393 with box [215.49376 417.15002 292.78125 564.97504] and score 0.7792377471923828
+Initiating Track ID 21 at frame 395 with box [231.69376 430.98752 279.95627 584.2125 ] and score 0.6509785652160645
+Initiating Track ID 22 at frame 396 with box [1416.15     409.725   1507.9501   585.22504] and score 0.7625370025634766
+Initiating Track ID 23 at frame 398 with box [1405.3501  411.4125 1467.4501  584.2125] and score 0.8083086013793945
+Initiating Track ID 24 at frame 417 with box [510.30002 437.73752 630.45    605.8125 ] and score 0.9202194213867188
+Initiating Track ID 25 at frame 467 with box [735.075   484.31253 813.375   652.3875 ] and score 0.7046852111816406
+Initiating Track ID 26 at frame 493 with box [ 838.35004  550.8     1019.25006  756.     ] and score 0.8446297645568848
+Initiating Track ID 27 at frame 535 with box [726.30005 513.      847.80005 678.375  ] and score 0.8614861965179443
+Initiating Track ID 28 at frame 535 with box [889.65    426.6     986.85004 605.47504] and score 0.7496130466461182
+Initiating Track ID 29 at frame 541 with box [ 986.85004  488.02502 1100.25     683.775  ] and score 0.8029332160949707
+Initiating Track ID 30 at frame 545 with box [786.375   430.65002 872.775   636.525  ] and score 0.7721984386444092
+Initiating Track ID 31 at frame 547 with box [667.575   419.17502 776.92505 664.2    ] and score 0.6882400512695312
+Initiating Track ID 32 at frame 551 with box [1082.025    491.40002 1188.675    754.65   ] and score 0.8788740634918213
+Initiating Track ID 33 at frame 553 with box [1120.5      472.50003 1208.25     657.45   ] and score 0.7530632019042969
+Initiating Track ID 34 at frame 553 with box [810.      420.52502 903.15    594.     ] and score 0.6167535781860352
+Initiating Track ID 35 at frame 559 with box [624.03754 478.575   745.875   608.85004] and score 0.826906681060791
+Initiating Track ID 36 at frame 660 with box [812.7     467.77502 954.45    668.92505] and score 0.8932197093963623
+Initiating Track ID 37 at frame 1167 with box [554.175   579.15    664.2     794.47504] and score 0.8958053588867188
+
+
+
+Tracking dancetrack0081...
+Initiating Track ID 1 at frame 1 with box [673.19995 473.84998 767.69995 598.94995] and score 0.9401860237121582
+Initiating Track ID 2 at frame 1 with box [1140.2999  421.65   1201.5     618.75  ] and score 0.9348928928375244
+Initiating Track ID 3 at frame 1 with box [311.175   511.19998 427.275   658.8    ] and score 0.9327757358551025
+Initiating Track ID 4 at frame 1 with box [310.72498 461.24997 388.12497 638.55   ] and score 0.9240081310272217
+Initiating Track ID 5 at frame 1 with box [267.75    513.44995 355.49997 655.64996] and score 0.9186873435974121
+Initiating Track ID 6 at frame 1 with box [746.1     468.44998 821.69995 605.25   ] and score 0.9177381992340088
+Initiating Track ID 7 at frame 1 with box [859.49994 511.19998 946.7999  652.49994] and score 0.9153556823730469
+Initiating Track ID 8 at frame 1 with box [424.34998 453.37497 518.85    601.19995] and score 0.9115040302276611
+Initiating Track ID 9 at frame 1 with box [114.243744 419.62497  161.2125   606.6     ] and score 0.9088592529296875
+Initiating Track ID 10 at frame 1 with box [493.64996 454.49997 586.35    603.     ] and score 0.905498743057251
+Initiating Track ID 11 at frame 1 with box [ 923.39996  498.59998 1011.6      661.49994] and score 0.8832550048828125
+Initiating Track ID 12 at frame 1 with box [705.14996 373.275   754.64996 536.39996] and score 0.8683016300201416
+Initiating Track ID 13 at frame 1 with box [476.99997 415.57498 549.      581.39996] and score 0.8535861968994141
+Initiating Track ID 14 at frame 1 with box [459.44998 372.59998 517.94995 539.1    ] and score 0.8311586380004883
+Initiating Track ID 15 at frame 1 with box [902.69995 476.55    983.69995 584.55   ] and score 0.7626500129699707
+Initiating Track ID 16 at frame 1 with box [730.35    431.99997 807.74994 578.69995] and score 0.7152557373046875
+Initiating Track ID 17 at frame 7 with box [737.55    440.55    805.94995 587.25   ] and score 0.7932424545288086
+Initiating Track ID 18 at frame 9 with box [903.6     488.69998 970.19995 635.39996] and score 0.6426000595092773
+Initiating Track ID 19 at frame 17 with box [476.09998 383.175   528.3     524.25   ] and score 0.700129508972168
+Initiating Track ID 20 at frame 28 with box [335.025   444.59998 391.275   642.6    ] and score 0.7626945972442627
+Initiating Track ID 21 at frame 35 with box [689.85    200.025   790.64996 265.72498] and score 0.6336658000946045
+Initiating Track ID 22 at frame 37 with box [682.19995 175.72499 791.99994 244.12498] and score 0.7934868335723877
+Initiating Track ID 23 at frame 39 with box [340.425   182.025   418.72498 335.025  ] and score 0.7118947505950928
+Initiating Track ID 24 at frame 52 with box [795.6     363.59998 927.89996 476.09998] and score 0.9189677238464355
+Initiating Track ID 25 at frame 69 with box [390.37497 471.59998 442.12497 631.8    ] and score 0.7860124111175537
+Initiating Track ID 26 at frame 70 with box [468.44998 402.3     520.64996 577.8    ] and score 0.6559658050537109
+Initiating Track ID 27 at frame 73 with box [713.24994 410.62497 791.55    558.89996] and score 0.6890459060668945
+Initiating Track ID 28 at frame 84 with box [783.89996 456.97498 848.69995 630.89996] and score 0.880894660949707
+Initiating Track ID 29 at frame 148 with box [396.9     334.8     476.09998 494.99997] and score 0.845531702041626
+Initiating Track ID 30 at frame 162 with box [241.87498 256.275   416.47498 310.275  ] and score 0.8212380409240723
+Initiating Track ID 31 at frame 164 with box [341.99997 442.8     426.15    624.6    ] and score 0.7578089237213135
+Initiating Track ID 32 at frame 173 with box [815.85    413.32498 917.5499  511.19998] and score 0.7775533199310303
+Initiating Track ID 33 at frame 176 with box [581.39996 364.49997 685.8     444.59998] and score 0.641181468963623
+Initiating Track ID 34 at frame 183 with box [133.0875  436.72498 290.25    518.85   ] and score 0.6099438667297363
+Initiating Track ID 35 at frame 194 with box [850.94995 469.34998 911.24994 628.64996] and score 0.709397554397583
+Initiating Track ID 36 at frame 194 with box [675.44995 401.175   724.05    541.8    ] and score 0.6725854873657227
+Initiating Track ID 37 at frame 208 with box [500.84998 390.82498 547.64996 534.14996] and score 0.7685699462890625
+Initiating Track ID 38 at frame 240 with box [1255.5      382.49997 1304.1      550.8    ] and score 0.8033444881439209
+Initiating Track ID 39 at frame 293 with box [201.59999 427.275   293.4     603.89996] and score 0.8460545539855957
+Initiating Track ID 40 at frame 299 with box [228.82498 367.87497 284.175   531.     ] and score 0.7827661037445068
+Initiating Track ID 41 at frame 312 with box [567.      310.5     678.6     481.94998] and score 0.7905888557434082
+Initiating Track ID 42 at frame 312 with box [325.57498 364.49997 443.47498 423.9    ] and score 0.6182985305786133
+Initiating Track ID 43 at frame 315 with box [594.      248.17499 676.8     357.525  ] and score 0.8254051208496094
+Initiating Track ID 44 at frame 315 with box [206.775   323.32498 296.32498 389.925  ] and score 0.6641364097595215
+Initiating Track ID 45 at frame 318 with box [205.87498 255.37498 278.32498 371.47498] and score 0.6283750534057617
+Initiating Track ID 46 at frame 400 with box [242.54999 259.425   331.19998 352.12497] and score 0.7397847175598145
+Initiating Track ID 47 at frame 415 with box [573.75    393.3     622.35    547.19995] and score 0.7781896591186523
+Initiating Track ID 48 at frame 497 with box [264.15    380.24997 323.55    546.75   ] and score 0.8062667846679688
+Initiating Track ID 49 at frame 505 with box [573.75    358.87497 624.14996 543.6    ] and score 0.6527814865112305
+Initiating Track ID 50 at frame 514 with box [600.75    380.47498 644.85    485.55   ] and score 0.8104991912841797
+Initiating Track ID 51 at frame 514 with box [847.8     461.69998 891.89996 552.6    ] and score 0.7064509391784668
+Initiating Track ID 52 at frame 514 with box [404.09998 426.59998 452.69998 537.3    ] and score 0.6062746047973633
+Initiating Track ID 53 at frame 515 with box [912.6     387.9     966.6     540.89996] and score 0.6971054077148438
+Initiating Track ID 54 at frame 517 with box [396.9     401.84998 449.55    559.35   ] and score 0.8225212097167969
+Initiating Track ID 55 at frame 523 with box [183.59999 396.22498 251.775   539.1    ] and score 0.8243622779846191
+Initiating Track ID 56 at frame 533 with box [796.94995 381.82498 872.55    530.1    ] and score 0.8297359943389893
+Initiating Track ID 57 at frame 541 with box [448.87497 429.3     509.84998 603.89996] and score 0.9222984313964844
+Initiating Track ID 58 at frame 545 with box [636.75    400.49997 714.14996 573.3    ] and score 0.938727617263794
+Initiating Track ID 59 at frame 591 with box [685.8     407.925   799.19995 474.74997] and score 0.751716136932373
+Initiating Track ID 60 at frame 593 with box [287.775   410.84998 383.62497 517.94995] and score 0.9421305656433105
+Initiating Track ID 61 at frame 616 with box [670.49994 383.4     822.6     583.19995] and score 0.945950984954834
+Initiating Track ID 62 at frame 618 with box [ 937.7999   376.87497 1081.7999   481.05   ] and score 0.8121943473815918
+Initiating Track ID 63 at frame 620 with box [686.24994 404.09998 793.35    480.59998] and score 0.8184185028076172
+Initiating Track ID 64 at frame 621 with box [371.47498 428.4     502.19998 492.3    ] and score 0.6675257682800293
+Initiating Track ID 65 at frame 624 with box [550.8     421.87497 745.19995 526.05   ] and score 0.9289429187774658
+Initiating Track ID 66 at frame 628 with box [411.3     413.99997 458.09998 564.3    ] and score 0.7958192825317383
+Initiating Track ID 67 at frame 656 with box [595.8     477.44998 669.6     603.44995] and score 0.9619846343994141
+Initiating Track ID 68 at frame 656 with box [876.6     424.57498 949.49994 547.64996] and score 0.9581222534179688
+Initiating Track ID 69 at frame 656 with box [404.55    489.14996 473.39996 593.55   ] and score 0.9298532009124756
+Initiating Track ID 70 at frame 670 with box [409.05    418.72498 463.94998 567.     ] and score 0.8870582580566406
+Initiating Track ID 71 at frame 676 with box [878.85    363.15    940.49994 472.49997] and score 0.7129428386688232
+Initiating Track ID 72 at frame 680 with box [790.19995 397.57498 833.39996 487.8    ] and score 0.8498203754425049
+Initiating Track ID 73 at frame 684 with box [932.39996 455.62497 989.99994 550.35   ] and score 0.9163193702697754
+Initiating Track ID 74 at frame 692 with box [701.1     363.82498 777.6     518.39996] and score 0.9455108642578125
+Initiating Track ID 75 at frame 832 with box [595.35    355.05    657.44995 537.3    ] and score 0.8456640243530273
+Initiating Track ID 76 at frame 894 with box [477.44998 360.44998 538.64996 519.3    ] and score 0.7955646514892578
+Initiating Track ID 77 at frame 910 with box [566.1  368.55 620.1  519.75] and score 0.7693042755126953
+Initiating Track ID 78 at frame 912 with box [422.775   360.675   472.49997 500.39996] and score 0.7732176780700684
+Initiating Track ID 79 at frame 913 with box [589.5     353.24997 633.6     520.64996] and score 0.619868278503418
+Initiating Track ID 80 at frame 920 with box [825.3     363.59998 892.8     510.3    ] and score 0.8669943809509277
+Initiating Track ID 81 at frame 959 with box [600.3     417.59998 653.39996 544.5    ] and score 0.711998701095581
+Initiating Track ID 82 at frame 971 with box [598.94995 369.675   652.05    529.19995] and score 0.7948598861694336
+Initiating Track ID 83 at frame 973 with box [634.5     368.55    689.39996 499.05   ] and score 0.8376269340515137
+Initiating Track ID 84 at frame 973 with box [600.75    368.09998 653.85    504.44998] and score 0.7734911441802979
+Initiating Track ID 85 at frame 979 with box [600.3     385.19998 649.8     534.6    ] and score 0.75775146484375
+Initiating Track ID 86 at frame 983 with box [500.39996 384.74997 591.3     535.5    ] and score 0.8597743511199951
+
+
+
+Tracking dancetrack0090...
+Initiating Track ID 1 at frame 1 with box [1443.15     532.91254 1675.3501   861.30005] and score 0.9765737056732178
+Initiating Track ID 2 at frame 1 with box [100.575005 543.03754  368.8875   870.75    ] and score 0.9765737056732178
+Initiating Track ID 3 at frame 1 with box [1148.175    537.6375  1366.875    865.35004] and score 0.9502429962158203
+Initiating Track ID 4 at frame 1 with box [1044.9      500.17502 1204.2001   857.25   ] and score 0.9468531608581543
+Initiating Track ID 5 at frame 1 with box [798.525   484.98752 967.275   859.95   ] and score 0.9436347484588623
+Initiating Track ID 6 at frame 1 with box [412.08752 561.9375  682.7625  872.10004] and score 0.9420561790466309
+Initiating Track ID 7 at frame 1 with box [591.97504 514.35004 751.95    855.22504] and score 0.93475341796875
+Initiating Track ID 8 at frame 1 with box [ 810.     546.075 1066.5    870.075] and score 0.932288646697998
+Initiating Track ID 9 at frame 1 with box [ 920.7      516.03754 1131.3      849.825  ] and score 0.9147138595581055
+Initiating Track ID 10 at frame 1 with box [513.675   522.78754 677.025   845.10004] and score 0.8145580291748047
+Initiating Track ID 11 at frame 1 with box [1196.1001  489.0375 1324.3501  850.5   ] and score 0.7754707336425781
+Initiating Track ID 12 at frame 1 with box [1000.35004  551.1375  1159.65     843.75   ] and score 0.6965696811676025
+Initiating Track ID 13 at frame 2 with box [733.72504 574.42505 932.17505 847.125  ] and score 0.8697795867919922
+Initiating Track ID 14 at frame 82 with box [1047.6     565.3125 1155.6001  897.75  ] and score 0.7571940422058105
+Initiating Track ID 15 at frame 115 with box [ 977.4     704.025  1163.7001  893.025 ] and score 0.8513574600219727
+Initiating Track ID 16 at frame 151 with box [ 936.22504  704.025   1075.275    875.47504] and score 0.898432731628418
+Initiating Track ID 17 at frame 153 with box [ 935.55005  693.22504 1112.4      875.47504] and score 0.865196704864502
+Initiating Track ID 18 at frame 165 with box [580.8375 708.075  765.45   874.125 ] and score 0.9000122547149658
+Initiating Track ID 19 at frame 251 with box [1235.25     558.22504 1359.4501   856.575  ] and score 0.8972747325897217
+Initiating Track ID 20 at frame 261 with box [460.35  546.075 567.    849.825] and score 0.6802232265472412
+Initiating Track ID 21 at frame 332 with box [1003.72504  544.05    1091.475    822.825  ] and score 0.7392239570617676
+Initiating Track ID 22 at frame 444 with box [1483.65     425.92502 1691.55     828.9    ] and score 0.915224552154541
+Initiating Track ID 23 at frame 462 with box [125.46563 325.85626 388.80002 853.875  ] and score 0.9780378341674805
+Initiating Track ID 24 at frame 493 with box [ 920.025    493.08752 1056.375    805.95   ] and score 0.615668773651123
+Initiating Track ID 25 at frame 517 with box [671.28754 427.27502 905.85004 813.375  ] and score 0.8940975666046143
+Initiating Track ID 26 at frame 536 with box [807.30005 650.025   973.35004 809.325  ] and score 0.7691962718963623
+Initiating Track ID 27 at frame 557 with box [ 957.825    618.97504 1094.175    812.025  ] and score 0.8876438140869141
+Initiating Track ID 28 at frame 719 with box [182.58751 684.78754 468.7875  862.65   ] and score 0.6447851657867432
+Initiating Track ID 29 at frame 728 with box [216.33751 780.30005 576.78754 859.95   ] and score 0.7930221557617188
+Initiating Track ID 30 at frame 777 with box [146.64375 569.7     394.875   868.05005] and score 0.6099228858947754
+Initiating Track ID 31 at frame 785 with box [668.92505 635.17505 901.125   847.125  ] and score 0.902562141418457
+Initiating Track ID 32 at frame 786 with box [ 851.17505  639.22504 1077.975    843.075  ] and score 0.8661041259765625
+Initiating Track ID 33 at frame 796 with box [449.55002 605.8125  707.4     857.25   ] and score 0.9712185859680176
+Initiating Track ID 34 at frame 843 with box [ 855.9     657.45   1155.6001  873.45  ] and score 0.61342453956604
+Initiating Track ID 35 at frame 864 with box [1019.25006  689.5125  1394.55     853.2    ] and score 0.7579703330993652
+Initiating Track ID 36 at frame 864 with box [ 33.91875 660.48755 398.25    866.7    ] and score 0.7397432327270508
+Initiating Track ID 37 at frame 869 with box [434.02502 674.66254 748.575   844.42505] and score 0.856684684753418
+Initiating Track ID 38 at frame 874 with box [289.23752 490.3875  534.2625  818.10004] and score 0.7945990562438965
+Initiating Track ID 39 at frame 910 with box [ 972.67505  585.5625  1040.175    823.5    ] and score 0.7854118347167969
+
+
+
+Tracking dancetrack0094...
+Initiating Track ID 1 at frame 1 with box [1566.       651.03754 1711.8      916.65   ] and score 0.9687936305999756
+Initiating Track ID 2 at frame 1 with box [434.36252 601.42505 604.4625  926.775  ] and score 0.9614801406860352
+Initiating Track ID 3 at frame 1 with box [197.77501 624.375   340.875   921.375  ] and score 0.9527254104614258
+Initiating Track ID 4 at frame 1 with box [1356.75     628.42505 1505.25     925.42505] and score 0.9464836120605469
+Initiating Track ID 5 at frame 1 with box [ 83.23594 655.7625  225.1125  915.97504] and score 0.939213752746582
+Initiating Track ID 6 at frame 1 with box [643.61255 572.0625  807.30005 934.2    ] and score 0.934295654296875
+Initiating Track ID 7 at frame 1 with box [1212.9751  589.275  1365.525   933.525 ] and score 0.9187960624694824
+Initiating Track ID 8 at frame 1 with box [ 962.55005  537.97504 1129.9501   938.92505] and score 0.8977053165435791
+Initiating Track ID 9 at frame 1 with box [1103.625   636.525  1227.8251  914.625 ] and score 0.8945465087890625
+Initiating Track ID 10 at frame 1 with box [1426.9501   640.575   1578.15     922.72504] and score 0.8927807807922363
+Initiating Track ID 11 at frame 1 with box [276.24374 641.5875  409.05002 913.95   ] and score 0.8697848320007324
+Initiating Track ID 12 at frame 1 with box [837.   673.65 967.95 913.95] and score 0.8383214473724365
+Initiating Track ID 13 at frame 1 with box [ 877.5      604.80005 1005.75006  928.80005] and score 0.8079442977905273
+Initiating Track ID 14 at frame 1 with box [1307.4751  677.7    1428.3     911.25  ] and score 0.6482219696044922
+Initiating Track ID 15 at frame 5 with box [1127.25  664.2  1289.25  909.9 ] and score 0.7486600875854492
+Initiating Track ID 16 at frame 9 with box [697.275   619.98755 836.325   913.95   ] and score 0.714634895324707
+Initiating Track ID 17 at frame 13 with box [513.675   643.275   655.42505 913.275  ] and score 0.6392467021942139
+Initiating Track ID 18 at frame 14 with box [ 940.275    576.45    1067.175    928.80005] and score 0.7581772804260254
+Initiating Track ID 19 at frame 15 with box [531.9     639.9     666.9     915.30005] and score 0.6421542167663574
+Initiating Track ID 20 at frame 20 with box [605.1375 650.7    724.95   907.2   ] and score 0.8426799774169922
+Initiating Track ID 21 at frame 20 with box [771.525   572.4     886.275   928.80005] and score 0.7633724212646484
+Initiating Track ID 22 at frame 22 with box [1395.9     597.7125 1563.3     907.875 ] and score 0.6548285484313965
+Initiating Track ID 23 at frame 24 with box [1324.3501   628.7625  1567.3501   922.72504] and score 0.7247178554534912
+Initiating Track ID 24 at frame 30 with box [1301.4    573.075 1476.9    920.025] and score 0.770115852355957
+Initiating Track ID 25 at frame 37 with box [1503.9      650.36255 1622.7001   901.125  ] and score 0.6139974594116211
+Initiating Track ID 26 at frame 38 with box [1376.3251   574.42505 1526.8501   914.625  ] and score 0.9280014038085938
+Initiating Track ID 27 at frame 40 with box [ 936.9      650.36255 1093.5      895.72504] and score 0.602125883102417
+Initiating Track ID 28 at frame 44 with box [655.0875  633.15    756.67505 886.95   ] and score 0.9015655517578125
+Initiating Track ID 29 at frame 44 with box [894.375   666.5625  986.17505 878.85004] and score 0.838158130645752
+Initiating Track ID 30 at frame 55 with box [855.22504 546.075   971.325   902.47504] and score 0.8724308013916016
+Initiating Track ID 31 at frame 63 with box [1502.55     693.22504 1629.4501   883.575  ] and score 0.9044194221496582
+Initiating Track ID 32 at frame 69 with box [ 935.55005  700.65    1042.2001   886.95   ] and score 0.8755588531494141
+Initiating Track ID 33 at frame 85 with box [634.8375  603.78754 751.95    901.80005] and score 0.6164829730987549
+Initiating Track ID 34 at frame 94 with box [1039.5      739.125   1197.4501   902.47504] and score 0.9138062000274658
+Initiating Track ID 35 at frame 109 with box [1197.4501   702.67505 1300.05     895.72504] and score 0.8758392333984375
+Initiating Track ID 36 at frame 115 with box [511.98752 710.775   646.98755 903.825  ] and score 0.8604419231414795
+Initiating Track ID 37 at frame 115 with box [1176.525    708.075   1242.675    898.42505] and score 0.7810299396514893
+Initiating Track ID 38 at frame 120 with box [915.30005 696.60004 982.80005 911.25   ] and score 0.768463134765625
+Initiating Track ID 39 at frame 180 with box [1260.9    721.575 1377.     883.575] and score 0.746088981628418
+Initiating Track ID 40 at frame 193 with box [714.825 670.95  782.325 876.15 ] and score 0.7372658252716064
+Initiating Track ID 41 at frame 194 with box [1364.175    699.30005 1452.6001   874.80005] and score 0.6401772499084473
+Initiating Track ID 42 at frame 225 with box [1233.2251   738.45    1353.375    872.10004] and score 0.8083474636077881
+Initiating Track ID 43 at frame 284 with box [1140.75     743.85004 1246.05     864.     ] and score 0.7443628311157227
+Initiating Track ID 44 at frame 306 with box [928.125   673.98755 986.17505 864.     ] and score 0.6574802398681641
+Initiating Track ID 45 at frame 310 with box [258.35626 598.05005 425.25    849.15   ] and score 0.682328462600708
+Initiating Track ID 46 at frame 338 with box [1374.9751   702.67505 1487.7001   872.775  ] and score 0.6118679046630859
+Initiating Track ID 47 at frame 339 with box [401.96252 659.1375  503.21252 864.     ] and score 0.7236113548278809
+Initiating Track ID 48 at frame 348 with box [523.125   661.8375  591.97504 860.625  ] and score 0.8712902069091797
+Initiating Track ID 49 at frame 353 with box [1161.       656.775   1244.7001   861.97504] and score 0.6937994956970215
+Initiating Track ID 50 at frame 357 with box [ 904.5      634.5     1086.75     881.55005] and score 0.6496219635009766
+Initiating Track ID 51 at frame 385 with box [ 929.47504  623.36255 1113.0751   874.125  ] and score 0.8423950672149658
+Initiating Track ID 52 at frame 388 with box [ 932.17505  695.92505 1010.47504  860.625  ] and score 0.7297248840332031
+Initiating Track ID 53 at frame 401 with box [1228.5    497.475 1448.55   894.375] and score 0.6947071552276611
+Initiating Track ID 54 at frame 422 with box [1399.9501  550.8    1602.4501  893.7   ] and score 0.8047986030578613
+Initiating Track ID 55 at frame 430 with box [1067.85    660.825  1175.8501  894.375 ] and score 0.8058671951293945
+Initiating Track ID 56 at frame 494 with box [ 915.30005  713.47504 1013.85004  913.275  ] and score 0.6555919647216797
+Initiating Track ID 57 at frame 502 with box [ 919.35004  693.9     1000.35004  915.30005] and score 0.6912491321563721
+Initiating Track ID 58 at frame 513 with box [1057.725    740.47504 1176.525    917.325  ] and score 0.6497812271118164
+Initiating Track ID 59 at frame 529 with box [716.17505 675.67505 794.47504 903.825  ] and score 0.650482177734375
+Initiating Track ID 60 at frame 558 with box [ 977.4      800.55005 1090.8      916.65   ] and score 0.8838763236999512
+
+
+
+Tracking dancetrack0097...
+Initiating Track ID 1 at frame 1 with box [ 909.22504  473.85    1080.675    772.2    ] and score 0.9702563285827637
+Initiating Track ID 2 at frame 1 with box [ 856.575    316.06876 1180.5751   726.97504] and score 0.965897798538208
+Initiating Track ID 3 at frame 1 with box [822.15    320.11877 976.05005 721.575  ] and score 0.9388267993927002
+Initiating Track ID 4 at frame 1 with box [1044.225    322.48126 1180.5751   724.95   ] and score 0.8938205242156982
+Initiating Track ID 5 at frame 960 with box [ 895.72504  187.9875  1118.4751  1082.7001 ] and score 0.9348106384277344
+Running post-processing...
+Evaluating...
+51.203 51.725 91.331 33.022 79.808
+1.6591014714822374
+
