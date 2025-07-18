@@ -1,0 +1,892 @@
+Running DanceTrack val...
+
+
+
+Tracking dancetrack0004...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 14
+initiate new track with id 5 at frame 21
+initiate new track with id 6 at frame 33
+initiate new track with id 7 at frame 133
+initiate new track with id 8 at frame 140
+initiate new track with id 9 at frame 152
+initiate new track with id 10 at frame 617
+initiate new track with id 11 at frame 797
+
+
+
+Tracking dancetrack0005...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 2
+initiate new track with id 4 at frame 8
+initiate new track with id 5 at frame 777
+initiate new track with id 6 at frame 1051
+
+
+
+Tracking dancetrack0007...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+initiate new track with id 5 at frame 1
+initiate new track with id 6 at frame 1
+initiate new track with id 7 at frame 1
+initiate new track with id 8 at frame 9
+initiate new track with id 9 at frame 730
+
+
+
+Tracking dancetrack0010...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+initiate new track with id 5 at frame 1
+initiate new track with id 6 at frame 3
+initiate new track with id 7 at frame 295
+initiate new track with id 8 at frame 559
+initiate new track with id 9 at frame 700
+initiate new track with id 10 at frame 1122
+initiate new track with id 11 at frame 1149
+
+
+
+Tracking dancetrack0014...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+initiate new track with id 5 at frame 1
+initiate new track with id 6 at frame 1
+initiate new track with id 7 at frame 1
+initiate new track with id 8 at frame 1
+initiate new track with id 9 at frame 1
+initiate new track with id 10 at frame 1
+initiate new track with id 11 at frame 1
+initiate new track with id 12 at frame 1
+initiate new track with id 13 at frame 92
+initiate new track with id 14 at frame 93
+initiate new track with id 15 at frame 175
+initiate new track with id 16 at frame 237
+initiate new track with id 17 at frame 458
+initiate new track with id 18 at frame 491
+initiate new track with id 19 at frame 639
+initiate new track with id 20 at frame 746
+initiate new track with id 21 at frame 872
+initiate new track with id 22 at frame 888
+initiate new track with id 23 at frame 890
+initiate new track with id 24 at frame 895
+initiate new track with id 25 at frame 898
+initiate new track with id 26 at frame 1019
+initiate new track with id 27 at frame 1147
+
+
+
+Tracking dancetrack0018...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 4
+initiate new track with id 5 at frame 5
+initiate new track with id 6 at frame 7
+initiate new track with id 7 at frame 9
+
+
+
+Tracking dancetrack0019...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+initiate new track with id 5 at frame 1
+initiate new track with id 6 at frame 1
+initiate new track with id 7 at frame 1
+initiate new track with id 8 at frame 409
+initiate new track with id 9 at frame 481
+initiate new track with id 10 at frame 505
+initiate new track with id 11 at frame 519
+initiate new track with id 12 at frame 633
+initiate new track with id 13 at frame 754
+initiate new track with id 14 at frame 801
+initiate new track with id 15 at frame 834
+initiate new track with id 16 at frame 894
+initiate new track with id 17 at frame 1364
+initiate new track with id 18 at frame 1575
+initiate new track with id 19 at frame 1660
+initiate new track with id 20 at frame 1676
+initiate new track with id 21 at frame 1681
+initiate new track with id 22 at frame 1686
+initiate new track with id 23 at frame 1719
+initiate new track with id 24 at frame 1753
+initiate new track with id 25 at frame 1759
+initiate new track with id 26 at frame 1830
+initiate new track with id 27 at frame 1852
+initiate new track with id 28 at frame 1876
+initiate new track with id 29 at frame 1890
+initiate new track with id 30 at frame 2009
+initiate new track with id 31 at frame 2271
+initiate new track with id 32 at frame 2337
+initiate new track with id 33 at frame 2339
+initiate new track with id 34 at frame 2361
+initiate new track with id 35 at frame 2388
+
+
+
+Tracking dancetrack0025...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+initiate new track with id 5 at frame 1
+initiate new track with id 6 at frame 1
+initiate new track with id 7 at frame 1
+initiate new track with id 8 at frame 1
+initiate new track with id 9 at frame 1
+initiate new track with id 10 at frame 4
+initiate new track with id 11 at frame 58
+initiate new track with id 12 at frame 63
+initiate new track with id 13 at frame 68
+initiate new track with id 14 at frame 76
+initiate new track with id 15 at frame 135
+initiate new track with id 16 at frame 151
+initiate new track with id 17 at frame 189
+initiate new track with id 18 at frame 216
+initiate new track with id 19 at frame 238
+initiate new track with id 20 at frame 309
+initiate new track with id 21 at frame 383
+initiate new track with id 22 at frame 418
+initiate new track with id 23 at frame 475
+initiate new track with id 24 at frame 496
+initiate new track with id 25 at frame 508
+initiate new track with id 26 at frame 610
+initiate new track with id 27 at frame 616
+initiate new track with id 28 at frame 629
+initiate new track with id 29 at frame 677
+initiate new track with id 30 at frame 691
+initiate new track with id 31 at frame 696
+initiate new track with id 32 at frame 766
+initiate new track with id 33 at frame 777
+initiate new track with id 34 at frame 795
+
+
+
+Tracking dancetrack0026...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+initiate new track with id 5 at frame 1
+initiate new track with id 6 at frame 1
+initiate new track with id 7 at frame 1
+initiate new track with id 8 at frame 1
+initiate new track with id 9 at frame 1
+initiate new track with id 10 at frame 1
+initiate new track with id 11 at frame 1
+initiate new track with id 12 at frame 1
+initiate new track with id 13 at frame 2
+initiate new track with id 14 at frame 9
+initiate new track with id 15 at frame 16
+initiate new track with id 16 at frame 20
+initiate new track with id 17 at frame 27
+initiate new track with id 18 at frame 54
+initiate new track with id 19 at frame 62
+initiate new track with id 20 at frame 88
+initiate new track with id 21 at frame 117
+initiate new track with id 22 at frame 140
+initiate new track with id 23 at frame 147
+initiate new track with id 24 at frame 169
+initiate new track with id 25 at frame 202
+initiate new track with id 26 at frame 224
+initiate new track with id 27 at frame 230
+initiate new track with id 28 at frame 243
+initiate new track with id 29 at frame 244
+
+
+
+Tracking dancetrack0030...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+initiate new track with id 5 at frame 1
+initiate new track with id 6 at frame 1
+initiate new track with id 7 at frame 630
+initiate new track with id 8 at frame 764
+initiate new track with id 9 at frame 1146
+
+
+
+Tracking dancetrack0034...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+initiate new track with id 5 at frame 1
+initiate new track with id 6 at frame 1
+initiate new track with id 7 at frame 1
+initiate new track with id 8 at frame 1
+initiate new track with id 9 at frame 1
+initiate new track with id 10 at frame 7
+initiate new track with id 11 at frame 13
+initiate new track with id 12 at frame 14
+initiate new track with id 13 at frame 16
+initiate new track with id 14 at frame 19
+initiate new track with id 15 at frame 19
+initiate new track with id 16 at frame 21
+initiate new track with id 17 at frame 49
+initiate new track with id 18 at frame 73
+initiate new track with id 19 at frame 82
+initiate new track with id 20 at frame 84
+initiate new track with id 21 at frame 84
+initiate new track with id 22 at frame 87
+initiate new track with id 23 at frame 140
+initiate new track with id 24 at frame 143
+initiate new track with id 25 at frame 210
+initiate new track with id 26 at frame 232
+initiate new track with id 27 at frame 235
+initiate new track with id 28 at frame 263
+initiate new track with id 29 at frame 292
+initiate new track with id 30 at frame 296
+initiate new track with id 31 at frame 355
+initiate new track with id 32 at frame 360
+initiate new track with id 33 at frame 377
+initiate new track with id 34 at frame 434
+initiate new track with id 35 at frame 444
+initiate new track with id 36 at frame 487
+initiate new track with id 37 at frame 528
+initiate new track with id 38 at frame 633
+initiate new track with id 39 at frame 642
+initiate new track with id 40 at frame 654
+initiate new track with id 41 at frame 743
+initiate new track with id 42 at frame 763
+initiate new track with id 43 at frame 767
+initiate new track with id 44 at frame 876
+initiate new track with id 45 at frame 896
+initiate new track with id 46 at frame 899
+
+
+
+Tracking dancetrack0035...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+initiate new track with id 5 at frame 1
+initiate new track with id 6 at frame 1
+initiate new track with id 7 at frame 1
+initiate new track with id 8 at frame 51
+initiate new track with id 9 at frame 60
+initiate new track with id 10 at frame 251
+initiate new track with id 11 at frame 370
+initiate new track with id 12 at frame 379
+initiate new track with id 13 at frame 579
+
+
+
+Tracking dancetrack0041...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+initiate new track with id 5 at frame 1
+initiate new track with id 6 at frame 1
+initiate new track with id 7 at frame 2
+initiate new track with id 8 at frame 4
+initiate new track with id 9 at frame 8
+initiate new track with id 10 at frame 12
+initiate new track with id 11 at frame 14
+initiate new track with id 12 at frame 30
+initiate new track with id 13 at frame 32
+initiate new track with id 14 at frame 53
+initiate new track with id 15 at frame 80
+initiate new track with id 16 at frame 118
+initiate new track with id 17 at frame 162
+initiate new track with id 18 at frame 196
+initiate new track with id 19 at frame 219
+initiate new track with id 20 at frame 233
+initiate new track with id 21 at frame 242
+initiate new track with id 22 at frame 244
+initiate new track with id 23 at frame 263
+initiate new track with id 24 at frame 312
+initiate new track with id 25 at frame 317
+initiate new track with id 26 at frame 318
+initiate new track with id 27 at frame 319
+initiate new track with id 28 at frame 349
+initiate new track with id 29 at frame 351
+initiate new track with id 30 at frame 353
+initiate new track with id 31 at frame 355
+initiate new track with id 32 at frame 356
+initiate new track with id 33 at frame 360
+initiate new track with id 34 at frame 360
+initiate new track with id 35 at frame 365
+initiate new track with id 36 at frame 373
+initiate new track with id 37 at frame 386
+initiate new track with id 38 at frame 406
+initiate new track with id 39 at frame 425
+initiate new track with id 40 at frame 463
+initiate new track with id 41 at frame 473
+initiate new track with id 42 at frame 495
+initiate new track with id 43 at frame 523
+initiate new track with id 44 at frame 546
+initiate new track with id 45 at frame 548
+initiate new track with id 46 at frame 681
+initiate new track with id 47 at frame 694
+initiate new track with id 48 at frame 752
+initiate new track with id 49 at frame 758
+initiate new track with id 50 at frame 830
+initiate new track with id 51 at frame 871
+initiate new track with id 52 at frame 891
+initiate new track with id 53 at frame 894
+initiate new track with id 54 at frame 913
+initiate new track with id 55 at frame 913
+initiate new track with id 56 at frame 939
+initiate new track with id 57 at frame 951
+initiate new track with id 58 at frame 978
+
+
+
+Tracking dancetrack0043...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+initiate new track with id 5 at frame 1
+initiate new track with id 6 at frame 1
+initiate new track with id 7 at frame 1
+initiate new track with id 8 at frame 2
+initiate new track with id 9 at frame 3
+initiate new track with id 10 at frame 3
+initiate new track with id 11 at frame 5
+initiate new track with id 12 at frame 18
+initiate new track with id 13 at frame 46
+initiate new track with id 14 at frame 47
+initiate new track with id 15 at frame 87
+initiate new track with id 16 at frame 114
+initiate new track with id 17 at frame 124
+initiate new track with id 18 at frame 129
+initiate new track with id 19 at frame 134
+initiate new track with id 20 at frame 138
+initiate new track with id 21 at frame 149
+initiate new track with id 22 at frame 156
+initiate new track with id 23 at frame 174
+initiate new track with id 24 at frame 176
+
+
+
+Tracking dancetrack0047...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+initiate new track with id 5 at frame 1
+initiate new track with id 6 at frame 1
+initiate new track with id 7 at frame 1
+initiate new track with id 8 at frame 9
+initiate new track with id 9 at frame 21
+initiate new track with id 10 at frame 27
+initiate new track with id 11 at frame 79
+initiate new track with id 12 at frame 136
+initiate new track with id 13 at frame 140
+initiate new track with id 14 at frame 287
+initiate new track with id 15 at frame 353
+initiate new track with id 16 at frame 359
+initiate new track with id 17 at frame 393
+initiate new track with id 18 at frame 540
+initiate new track with id 19 at frame 559
+initiate new track with id 20 at frame 742
+initiate new track with id 21 at frame 765
+initiate new track with id 22 at frame 768
+initiate new track with id 23 at frame 772
+initiate new track with id 24 at frame 934
+initiate new track with id 25 at frame 1037
+initiate new track with id 26 at frame 1104
+initiate new track with id 27 at frame 1108
+initiate new track with id 28 at frame 1158
+initiate new track with id 29 at frame 1169
+initiate new track with id 30 at frame 1172
+initiate new track with id 31 at frame 1183
+
+
+
+Tracking dancetrack0058...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+initiate new track with id 5 at frame 1
+initiate new track with id 6 at frame 1
+initiate new track with id 7 at frame 1
+initiate new track with id 8 at frame 13
+initiate new track with id 9 at frame 619
+initiate new track with id 10 at frame 694
+initiate new track with id 11 at frame 1248
+initiate new track with id 12 at frame 1576
+initiate new track with id 13 at frame 1600
+
+
+
+Tracking dancetrack0063...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+initiate new track with id 5 at frame 1
+initiate new track with id 6 at frame 6
+initiate new track with id 7 at frame 11
+initiate new track with id 8 at frame 16
+initiate new track with id 9 at frame 22
+initiate new track with id 10 at frame 25
+initiate new track with id 11 at frame 32
+initiate new track with id 12 at frame 38
+initiate new track with id 13 at frame 43
+initiate new track with id 14 at frame 46
+initiate new track with id 15 at frame 51
+initiate new track with id 16 at frame 51
+initiate new track with id 17 at frame 53
+initiate new track with id 18 at frame 91
+initiate new track with id 19 at frame 95
+initiate new track with id 20 at frame 101
+initiate new track with id 21 at frame 106
+initiate new track with id 22 at frame 108
+initiate new track with id 23 at frame 111
+initiate new track with id 24 at frame 120
+initiate new track with id 25 at frame 122
+initiate new track with id 26 at frame 124
+initiate new track with id 27 at frame 128
+initiate new track with id 28 at frame 130
+initiate new track with id 29 at frame 133
+initiate new track with id 30 at frame 134
+initiate new track with id 31 at frame 147
+initiate new track with id 32 at frame 164
+initiate new track with id 33 at frame 165
+initiate new track with id 34 at frame 169
+initiate new track with id 35 at frame 169
+initiate new track with id 36 at frame 171
+initiate new track with id 37 at frame 172
+initiate new track with id 38 at frame 172
+initiate new track with id 39 at frame 175
+initiate new track with id 40 at frame 175
+initiate new track with id 41 at frame 177
+initiate new track with id 42 at frame 187
+initiate new track with id 43 at frame 188
+initiate new track with id 44 at frame 192
+initiate new track with id 45 at frame 194
+initiate new track with id 46 at frame 195
+initiate new track with id 47 at frame 195
+initiate new track with id 48 at frame 196
+initiate new track with id 49 at frame 206
+initiate new track with id 50 at frame 207
+initiate new track with id 51 at frame 220
+initiate new track with id 52 at frame 222
+initiate new track with id 53 at frame 223
+initiate new track with id 54 at frame 230
+initiate new track with id 55 at frame 232
+initiate new track with id 56 at frame 232
+initiate new track with id 57 at frame 242
+initiate new track with id 58 at frame 251
+initiate new track with id 59 at frame 255
+initiate new track with id 60 at frame 255
+initiate new track with id 61 at frame 259
+initiate new track with id 62 at frame 268
+initiate new track with id 63 at frame 268
+initiate new track with id 64 at frame 270
+initiate new track with id 65 at frame 270
+initiate new track with id 66 at frame 275
+initiate new track with id 67 at frame 281
+initiate new track with id 68 at frame 284
+initiate new track with id 69 at frame 284
+initiate new track with id 70 at frame 290
+initiate new track with id 71 at frame 296
+initiate new track with id 72 at frame 296
+initiate new track with id 73 at frame 298
+initiate new track with id 74 at frame 299
+initiate new track with id 75 at frame 304
+initiate new track with id 76 at frame 304
+initiate new track with id 77 at frame 309
+initiate new track with id 78 at frame 310
+initiate new track with id 79 at frame 312
+initiate new track with id 80 at frame 313
+initiate new track with id 81 at frame 316
+initiate new track with id 82 at frame 320
+initiate new track with id 83 at frame 328
+initiate new track with id 84 at frame 333
+initiate new track with id 85 at frame 335
+initiate new track with id 86 at frame 340
+initiate new track with id 87 at frame 341
+initiate new track with id 88 at frame 343
+initiate new track with id 89 at frame 343
+initiate new track with id 90 at frame 344
+initiate new track with id 91 at frame 344
+initiate new track with id 92 at frame 348
+initiate new track with id 93 at frame 350
+initiate new track with id 94 at frame 361
+initiate new track with id 95 at frame 369
+initiate new track with id 96 at frame 426
+initiate new track with id 97 at frame 428
+initiate new track with id 98 at frame 430
+initiate new track with id 99 at frame 446
+initiate new track with id 100 at frame 446
+initiate new track with id 101 at frame 446
+initiate new track with id 102 at frame 460
+initiate new track with id 103 at frame 461
+initiate new track with id 104 at frame 469
+initiate new track with id 105 at frame 477
+initiate new track with id 106 at frame 480
+initiate new track with id 107 at frame 485
+initiate new track with id 108 at frame 491
+initiate new track with id 109 at frame 493
+initiate new track with id 110 at frame 495
+initiate new track with id 111 at frame 497
+initiate new track with id 112 at frame 506
+initiate new track with id 113 at frame 513
+initiate new track with id 114 at frame 514
+initiate new track with id 115 at frame 522
+initiate new track with id 116 at frame 524
+initiate new track with id 117 at frame 524
+initiate new track with id 118 at frame 526
+initiate new track with id 119 at frame 532
+initiate new track with id 120 at frame 535
+initiate new track with id 121 at frame 537
+initiate new track with id 122 at frame 538
+initiate new track with id 123 at frame 540
+initiate new track with id 124 at frame 540
+initiate new track with id 125 at frame 544
+initiate new track with id 126 at frame 545
+initiate new track with id 127 at frame 548
+initiate new track with id 128 at frame 559
+initiate new track with id 129 at frame 562
+initiate new track with id 130 at frame 570
+initiate new track with id 131 at frame 570
+initiate new track with id 132 at frame 572
+initiate new track with id 133 at frame 577
+initiate new track with id 134 at frame 593
+initiate new track with id 135 at frame 600
+initiate new track with id 136 at frame 620
+initiate new track with id 137 at frame 702
+initiate new track with id 138 at frame 717
+initiate new track with id 139 at frame 741
+initiate new track with id 140 at frame 744
+initiate new track with id 141 at frame 754
+initiate new track with id 142 at frame 754
+initiate new track with id 143 at frame 774
+initiate new track with id 144 at frame 775
+initiate new track with id 145 at frame 810
+initiate new track with id 146 at frame 816
+initiate new track with id 147 at frame 833
+initiate new track with id 148 at frame 842
+initiate new track with id 149 at frame 842
+initiate new track with id 150 at frame 844
+initiate new track with id 151 at frame 845
+initiate new track with id 152 at frame 845
+initiate new track with id 153 at frame 847
+initiate new track with id 154 at frame 847
+initiate new track with id 155 at frame 858
+initiate new track with id 156 at frame 860
+initiate new track with id 157 at frame 873
+initiate new track with id 158 at frame 892
+initiate new track with id 159 at frame 893
+initiate new track with id 160 at frame 893
+initiate new track with id 161 at frame 895
+initiate new track with id 162 at frame 897
+initiate new track with id 163 at frame 907
+initiate new track with id 164 at frame 911
+initiate new track with id 165 at frame 911
+initiate new track with id 166 at frame 912
+initiate new track with id 167 at frame 918
+initiate new track with id 168 at frame 927
+initiate new track with id 169 at frame 939
+initiate new track with id 170 at frame 947
+initiate new track with id 171 at frame 951
+initiate new track with id 172 at frame 955
+initiate new track with id 173 at frame 956
+initiate new track with id 174 at frame 959
+initiate new track with id 175 at frame 961
+initiate new track with id 176 at frame 963
+initiate new track with id 177 at frame 963
+initiate new track with id 178 at frame 968
+initiate new track with id 179 at frame 972
+initiate new track with id 180 at frame 979
+initiate new track with id 181 at frame 979
+initiate new track with id 182 at frame 983
+initiate new track with id 183 at frame 995
+initiate new track with id 184 at frame 996
+
+
+
+Tracking dancetrack0065...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+initiate new track with id 5 at frame 1
+initiate new track with id 6 at frame 483
+initiate new track with id 7 at frame 676
+initiate new track with id 8 at frame 687
+
+
+
+Tracking dancetrack0073...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+initiate new track with id 5 at frame 1
+initiate new track with id 6 at frame 1
+initiate new track with id 7 at frame 1
+initiate new track with id 8 at frame 3
+initiate new track with id 9 at frame 18
+initiate new track with id 10 at frame 43
+initiate new track with id 11 at frame 109
+initiate new track with id 12 at frame 150
+initiate new track with id 13 at frame 174
+initiate new track with id 14 at frame 223
+initiate new track with id 15 at frame 235
+initiate new track with id 16 at frame 252
+initiate new track with id 17 at frame 262
+initiate new track with id 18 at frame 265
+initiate new track with id 19 at frame 277
+initiate new track with id 20 at frame 289
+initiate new track with id 21 at frame 295
+initiate new track with id 22 at frame 313
+initiate new track with id 23 at frame 316
+initiate new track with id 24 at frame 319
+initiate new track with id 25 at frame 328
+initiate new track with id 26 at frame 363
+initiate new track with id 27 at frame 532
+initiate new track with id 28 at frame 561
+initiate new track with id 29 at frame 566
+initiate new track with id 30 at frame 632
+initiate new track with id 31 at frame 693
+initiate new track with id 32 at frame 695
+
+
+
+Tracking dancetrack0077...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+initiate new track with id 5 at frame 1
+initiate new track with id 6 at frame 1
+initiate new track with id 7 at frame 1
+initiate new track with id 8 at frame 1
+initiate new track with id 9 at frame 1
+initiate new track with id 10 at frame 180
+initiate new track with id 11 at frame 184
+initiate new track with id 12 at frame 192
+initiate new track with id 13 at frame 193
+initiate new track with id 14 at frame 221
+initiate new track with id 15 at frame 536
+initiate new track with id 16 at frame 544
+
+
+
+Tracking dancetrack0079...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+initiate new track with id 5 at frame 1
+initiate new track with id 6 at frame 1
+initiate new track with id 7 at frame 1
+initiate new track with id 8 at frame 1
+initiate new track with id 9 at frame 1
+initiate new track with id 10 at frame 76
+initiate new track with id 11 at frame 370
+initiate new track with id 12 at frame 372
+initiate new track with id 13 at frame 374
+initiate new track with id 14 at frame 383
+initiate new track with id 15 at frame 386
+initiate new track with id 16 at frame 386
+initiate new track with id 17 at frame 387
+initiate new track with id 18 at frame 393
+initiate new track with id 19 at frame 395
+initiate new track with id 20 at frame 396
+initiate new track with id 21 at frame 398
+initiate new track with id 22 at frame 535
+initiate new track with id 23 at frame 538
+initiate new track with id 24 at frame 540
+initiate new track with id 25 at frame 545
+initiate new track with id 26 at frame 553
+initiate new track with id 27 at frame 553
+
+
+
+Tracking dancetrack0081...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+initiate new track with id 5 at frame 1
+initiate new track with id 6 at frame 1
+initiate new track with id 7 at frame 1
+initiate new track with id 8 at frame 1
+initiate new track with id 9 at frame 1
+initiate new track with id 10 at frame 1
+initiate new track with id 11 at frame 1
+initiate new track with id 12 at frame 1
+initiate new track with id 13 at frame 1
+initiate new track with id 14 at frame 1
+initiate new track with id 15 at frame 1
+initiate new track with id 16 at frame 1
+initiate new track with id 17 at frame 8
+initiate new track with id 18 at frame 9
+initiate new track with id 19 at frame 10
+initiate new track with id 20 at frame 17
+initiate new track with id 21 at frame 28
+initiate new track with id 22 at frame 39
+initiate new track with id 23 at frame 44
+initiate new track with id 24 at frame 69
+initiate new track with id 25 at frame 70
+initiate new track with id 26 at frame 73
+initiate new track with id 27 at frame 148
+initiate new track with id 28 at frame 161
+initiate new track with id 29 at frame 164
+initiate new track with id 30 at frame 164
+initiate new track with id 31 at frame 167
+initiate new track with id 32 at frame 173
+initiate new track with id 33 at frame 176
+initiate new track with id 34 at frame 183
+initiate new track with id 35 at frame 186
+initiate new track with id 36 at frame 194
+initiate new track with id 37 at frame 196
+initiate new track with id 38 at frame 199
+initiate new track with id 39 at frame 200
+initiate new track with id 40 at frame 203
+initiate new track with id 41 at frame 208
+initiate new track with id 42 at frame 240
+initiate new track with id 43 at frame 312
+initiate new track with id 44 at frame 315
+initiate new track with id 45 at frame 318
+initiate new track with id 46 at frame 400
+initiate new track with id 47 at frame 415
+initiate new track with id 48 at frame 497
+initiate new track with id 49 at frame 514
+initiate new track with id 50 at frame 514
+initiate new track with id 51 at frame 517
+initiate new track with id 52 at frame 531
+initiate new track with id 53 at frame 533
+initiate new track with id 54 at frame 622
+initiate new track with id 55 at frame 654
+initiate new track with id 56 at frame 656
+initiate new track with id 57 at frame 680
+initiate new track with id 58 at frame 680
+initiate new track with id 59 at frame 684
+initiate new track with id 60 at frame 849
+initiate new track with id 61 at frame 879
+initiate new track with id 62 at frame 910
+initiate new track with id 63 at frame 913
+initiate new track with id 64 at frame 920
+initiate new track with id 65 at frame 959
+initiate new track with id 66 at frame 973
+
+
+
+Tracking dancetrack0090...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+initiate new track with id 5 at frame 1
+initiate new track with id 6 at frame 1
+initiate new track with id 7 at frame 1
+initiate new track with id 8 at frame 1
+initiate new track with id 9 at frame 1
+initiate new track with id 10 at frame 1
+initiate new track with id 11 at frame 1
+initiate new track with id 12 at frame 1
+initiate new track with id 13 at frame 2
+initiate new track with id 14 at frame 49
+initiate new track with id 15 at frame 82
+initiate new track with id 16 at frame 115
+initiate new track with id 17 at frame 150
+initiate new track with id 18 at frame 160
+initiate new track with id 19 at frame 171
+initiate new track with id 20 at frame 251
+initiate new track with id 21 at frame 260
+initiate new track with id 22 at frame 261
+initiate new track with id 23 at frame 719
+initiate new track with id 24 at frame 728
+initiate new track with id 25 at frame 780
+initiate new track with id 26 at frame 785
+initiate new track with id 27 at frame 823
+initiate new track with id 28 at frame 843
+initiate new track with id 29 at frame 864
+initiate new track with id 30 at frame 869
+initiate new track with id 31 at frame 874
+
+
+
+Tracking dancetrack0094...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+initiate new track with id 5 at frame 1
+initiate new track with id 6 at frame 1
+initiate new track with id 7 at frame 1
+initiate new track with id 8 at frame 1
+initiate new track with id 9 at frame 1
+initiate new track with id 10 at frame 1
+initiate new track with id 11 at frame 1
+initiate new track with id 12 at frame 1
+initiate new track with id 13 at frame 1
+initiate new track with id 14 at frame 1
+initiate new track with id 15 at frame 5
+initiate new track with id 16 at frame 9
+initiate new track with id 17 at frame 13
+initiate new track with id 18 at frame 15
+initiate new track with id 19 at frame 15
+initiate new track with id 20 at frame 15
+initiate new track with id 21 at frame 20
+initiate new track with id 22 at frame 20
+initiate new track with id 23 at frame 22
+initiate new track with id 24 at frame 23
+initiate new track with id 25 at frame 33
+initiate new track with id 26 at frame 44
+initiate new track with id 27 at frame 59
+initiate new track with id 28 at frame 63
+initiate new track with id 29 at frame 69
+initiate new track with id 30 at frame 85
+initiate new track with id 31 at frame 115
+initiate new track with id 32 at frame 119
+initiate new track with id 33 at frame 174
+initiate new track with id 34 at frame 178
+initiate new track with id 35 at frame 180
+initiate new track with id 36 at frame 194
+initiate new track with id 37 at frame 196
+initiate new track with id 38 at frame 205
+initiate new track with id 39 at frame 225
+initiate new track with id 40 at frame 284
+initiate new track with id 41 at frame 306
+initiate new track with id 42 at frame 373
+initiate new track with id 43 at frame 379
+initiate new track with id 44 at frame 385
+initiate new track with id 45 at frame 388
+initiate new track with id 46 at frame 424
+initiate new track with id 47 at frame 430
+initiate new track with id 48 at frame 498
+initiate new track with id 49 at frame 507
+initiate new track with id 50 at frame 513
+initiate new track with id 51 at frame 519
+initiate new track with id 52 at frame 529
+initiate new track with id 53 at frame 547
+initiate new track with id 54 at frame 558
+initiate new track with id 55 at frame 587
+
+
+
+Tracking dancetrack0097...
+initiate new track with id 1 at frame 1
+initiate new track with id 2 at frame 1
+initiate new track with id 3 at frame 1
+initiate new track with id 4 at frame 1
+Running post-processing...
+Evaluating...
+59.533 62.228 90.041 45.071 78.969
+241.15633865408208
+
