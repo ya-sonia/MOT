@@ -1,19 +1,19 @@
 import torch
 from torch.utils.data import DataLoader
-from model import GRUPredictor
-from transformer.dataset import DanceTrackDataset
+from model import TransformerPredictor
+from dataset import DanceTrackDataset
+from loss import CombinedLoss
 from utils import load_config, calculate_iou, calculate_center_distance
 import os
 import tqdm
 
-def evaluate(model, loader, device, iou_threshold=0.8, dist_threshold=10):
+def evaluate(model, loader, device, iou_threshold=0.8, dist_threshold=5):
     model.eval()
     total_loss = 0.0
     total_samples = 0
     iou_correct = 0
     dist_correct = 0
-    criterion = torch.nn.MSELoss()
-
+    criterion = CombinedLoss(lambda_l1=5.0, lambda_ciou=2.0)
     with torch.no_grad():
         test_loop = tqdm.tqdm(loader, desc="Evaluating", unit="batch")
         for inputs, targets in test_loop:
@@ -42,11 +42,14 @@ def main():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     # Initialize and load model
-    model = GRUPredictor(
+    model = TransformerPredictor(
         input_dim=4,
-        hidden_dim=config["hidden_dim"],
+        model_dim=config["hidden_dim"],
+        num_heads=config["num_heads"],
+        num_layers=config["num_layers"],
         output_dim=4
     ).to(device)
+
 
     checkpoint_path = config["resume_from_checkpoint"]
     if not checkpoint_path or not os.path.exists(checkpoint_path):

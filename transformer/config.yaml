@@ -1,0 +1,10 @@
+epochs: 50
+batch_size: 32
+sequence_length: 16
+hidden_dim: 128
+learning_rate: 1e-3
+save_dir: checkpoints/
+num_heads: 8
+num_layers: 4
+dropout: 0.1
+resume_from_checkpoint: /DATA/Sonia/TrackTrack/transformer/checkpoints/epoch_20_train_loss_0.4389893395118156_val_loss_0.31683668277463206.pth
